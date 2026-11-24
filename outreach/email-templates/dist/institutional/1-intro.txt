@@ -1,0 +1,29 @@
+Subject: Cross-department requests at {{company}}
+
+Hi {{first_name}},
+
+{{personal_line}}
+
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+
+One workflow we would pilot with institutional administration teams:
+
+Institutional administration
+  Delegated: Arrange appointments, verify credentials and exchange records within the institution’s access rules.
+  Stays with you: Restricted access and consequential decisions require an authorised institutional owner.
+  Exception: Two offices must confirm a change to a shared appointment.
+
+The page shows how that exception is handled and which records prove the case is complete.
+
+See the institutional administration workflow: https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional
+Discuss a pilot: https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional
+
+Is this something your team handles enough of to be worth a 20-minute conversation?
+
+{{sender_name}}
+{{sender_title}}, UIE
+
+--
+UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
+
+I wrote to you because of your role at {{company}}. If this isn’t relevant, reply "no thanks" and I won’t write again.

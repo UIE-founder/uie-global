@@ -1,0 +1,29 @@
+Subject: Connection applications at {{company}}
+
+Hi {{first_name}},
+
+{{personal_line}}
+
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+
+For energy & renewables teams, these are the three workflows we would look at first:
+
+Energy & renewables: where a pilot could start
+  01: Connection intake
+  02: Supplier handover
+  03: Invoice reconciliation
+
+Our energy & renewables page puts it like this: “Track connection applications, supplier handovers and maintenance paperwork. Engineers can see which records are available and which still need review.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
+
+See the energy & renewables workflows: https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy
+Discuss a pilot: https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy
+
+Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
+
+{{sender_name}}
+{{sender_title}}, UIE
+
+--
+UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
+
+I wrote to you because of your role at {{company}}. If this isn’t relevant, reply "no thanks" and I won’t write again.

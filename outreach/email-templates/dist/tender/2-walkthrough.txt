@@ -1,0 +1,23 @@
+Subject: Re: (keep the Touch 1 subject)
+
+Hi {{first_name}},
+
+A quicker way to see how this works than another email: the interactive walkthrough follows a refund through an illustrative Qlaas service.
+
+The refund case
+  Within policy: Receive · Verify · Authorise · Execute · Reconcile · Complete
+  Exception: Delegated limit exceeded, so the case waits for human authorisation
+  Closes when: Provider and ledger agree, and the customer is notified
+
+It takes a couple of minutes, and the same pattern applies to tender submissions at {{company}}.
+
+Open the walkthrough: https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-tender
+Discuss a pilot: https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-tender
+
+{{sender_name}}
+{{sender_title}}, UIE
+
+--
+UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
+
+I wrote to you because of your role at {{company}}. If this isn’t relevant, reply "no thanks" and I won’t write again.

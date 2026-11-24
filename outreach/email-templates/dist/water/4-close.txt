@@ -1,0 +1,19 @@
+Subject: Re: (keep the Touch 1 subject)
+
+Hi {{first_name}},
+
+I haven’t heard back, so I’ll assume the timing isn’t right and close this on my side.
+
+If that changes, the quickest route is the pilot enquiry on our site. It opens with Water & utilities already selected.
+
+Discuss a pilot: https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-water
+
+Or just reply with the name of whoever owns this at {{company}}, and I’ll write to them instead.
+
+{{sender_name}}
+{{sender_title}}, UIE
+
+--
+UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
+
+I wrote to you because of your role at {{company}}. If this isn’t relevant, reply "no thanks" and I won’t write again.

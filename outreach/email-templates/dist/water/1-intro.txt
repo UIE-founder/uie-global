@@ -1,0 +1,29 @@
+Subject: Incident communications at {{company}}
+
+Hi {{first_name}},
+
+{{personal_line}}
+
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+
+For water & utilities teams, these are the three workflows we would look at first:
+
+Water & utilities: where a pilot could start
+  01: Incident communications
+  02: Repair coordination
+  03: Contractor close-out
+
+Our water & utilities page puts it like this: “Link incident records, field-team updates and customer notices to the same case. The operator directs network response and authorises public updates.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
+
+See the water & utilities workflows: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
+Discuss a pilot: https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
+
+Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
+
+{{sender_name}}
+{{sender_title}}, UIE
+
+--
+UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
+
+I wrote to you because of your role at {{company}}. If this isn’t relevant, reply "no thanks" and I won’t write again.
