@@ -1,27 +1,32 @@
 Subject: Incident communications at {{company}}
 
+WATER & UTILITIES
+Incident response and repair records
+Link incident records, field-team updates and customer notices to the same case. The operator directs network response and authorises public updates.
+Explore water & utilities: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For water & utilities teams, these are the three workflows we would look at first:
 
-For water & utilities teams, these are the three workflows we would look at first:
+- Incident communications: The request, the work, who keeps authority and the evidence that closes the case.
+- Repair coordination
+- Contractor close-out
 
-Water & utilities: where a pilot could start
-  01: Incident communications
-  02: Repair coordination
-  03: Contractor close-out
+A dam spanning a river valley, connecting water and energy infrastructure: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
 
-Our water & utilities page puts it like this: “Link incident records, field-team updates and customer notices to the same case. The operator directs network response and authorises public updates.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
-
-See the water & utilities workflows: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
-Discuss a pilot: https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
+The page also has a calculator for putting a value on the time at your own case volumes.
 
 Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
+See the water & utilities workflows: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

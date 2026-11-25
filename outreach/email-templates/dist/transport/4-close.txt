@@ -1,17 +1,21 @@
 Subject: Re: (keep the Touch 1 subject)
 
+PILOT DESIGN
+Bring one case to the table
+Choose a recurring request. Bring an example, the systems it passes through and the record that shows it is complete.
+Discuss a pilot: https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-transport
+
 Hi {{first_name}},
 
 I haven’t heard back, so I’ll assume the timing isn’t right and close this on my side.
 
 If that changes, the quickest route is the pilot enquiry on our site. It opens with Transport & logistics already selected.
 
-Discuss a pilot: https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-transport
-
 Or just reply with the name of whoever owns this at {{company}}, and I’ll write to them instead.
 
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

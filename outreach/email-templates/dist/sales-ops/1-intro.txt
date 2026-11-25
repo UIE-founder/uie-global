@@ -1,27 +1,32 @@
 Subject: Inbound enquiries at {{company}}
 
+SALES OPERATIONS
+Move a qualified enquiry into the pipeline.
+Qualify an inbound opportunity, prepare a proposal and record the agreed follow-up in the CRM.
+See the workflow: https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with sales operations teams, and where the line sits between what is delegated and what stays with you:
 
-One workflow we would pilot with sales operations teams:
+- Sales operations: Qualify an inbound opportunity, prepare a proposal and record the agreed follow-up in the CRM.
+- Stays with you: A commercial owner approves negotiated terms and outreach outside the agreed permission.
+- When it goes off-script: A prospective customer asks for a non-standard discount.
 
-Sales operations
-  Delegated: Qualify an inbound opportunity, prepare a proposal and record the agreed follow-up in the CRM.
-  Stays with you: A commercial owner approves negotiated terms and outreach outside the agreed permission.
-  Exception: A prospective customer asks for a non-standard discount.
+An engineer working beside data centre infrastructure: https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
 
 The page shows how that exception is handled and which records prove the case is complete.
 
-See the sales operations workflow: https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
-Discuss a pilot: https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
-
 Is this something your team handles enough of to be worth a 20-minute conversation?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
+See the sales operations workflow: https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

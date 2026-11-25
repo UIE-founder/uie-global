@@ -1,27 +1,32 @@
 Subject: Returns and refunds at {{company}}
 
+CUSTOMER OPERATIONS
+Resolve the request. Close the record.
+Handle order enquiries, returns and eligible refunds from the first message through to reconciliation.
+See the workflow: https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with customer operations teams, and where the line sits between what is delegated and what stays with you:
 
-One workflow we would pilot with customer operations teams:
+- Customer operations: Handle order enquiries, returns and eligible refunds from the first message through to reconciliation.
+- Stays with you: Disputed eligibility and amounts above the delegated limit go to a named reviewer.
+- When it goes off-script: A return arrives after the stated window.
 
-Customer operations
-  Delegated: Handle order enquiries, returns and eligible refunds from the first message through to reconciliation.
-  Stays with you: Disputed eligibility and amounts above the delegated limit go to a named reviewer.
-  Exception: A return arrives after the stated window.
+Server racks and monitoring equipment in a data centre: https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
 
 The page shows how that exception is handled and which records prove the case is complete.
 
-See the customer operations workflow: https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
-Discuss a pilot: https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
-
 Is this something your team handles enough of to be worth a 20-minute conversation?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
+See the customer operations workflow: https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

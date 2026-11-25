@@ -1,27 +1,32 @@
 Subject: Guest requests at {{company}}
 
+COMMERCIAL & HOSPITALITY
+Guest requests, returns and supplier invoices
+Connect customer requests to the teams and systems that fulfil them. Keep reservations, after-sales and finance aligned, so customers receive a confirmed outcome rather than another handover.
+Explore commercial & hospitality: https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For commercial & hospitality teams, these are the three workflows we would look at first:
 
-For commercial & hospitality teams, these are the three workflows we would look at first:
+- Guest request coordination: The request, the work, who keeps authority and the evidence that closes the case.
+- Returns and after-sales
+- Supplier invoice handling
 
-Commercial & hospitality: where a pilot could start
-  01: Guest request coordination
-  02: Returns and after-sales
-  03: Supplier invoice handling
+An engineer working beside data centre infrastructure: https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
 
-Our commercial & hospitality page puts it like this: “Connect customer requests to the teams and systems that fulfil them. Keep reservations, after-sales and finance aligned, so customers receive a confirmed outcome rather than another handover.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
-
-See the commercial & hospitality workflows: https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
-Discuss a pilot: https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
+The page also has a calculator for putting a value on the time at your own case volumes.
 
 Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
+See the commercial & hospitality workflows: https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

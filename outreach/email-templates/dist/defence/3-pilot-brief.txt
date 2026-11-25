@@ -1,23 +1,27 @@
 Subject: A pilot brief your operator can test
 
+PILOT GUIDES
+Write a brief that your operator can test.
+Use one recurring case to describe the outcome, the responsible person and the records a pilot can use.
+Read the guide: https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence
+
 Hi {{first_name}},
 
-If an AI pilot is on the agenda at {{company}}, the hard part is usually agreeing what “done” means before anything is built. We wrote a short guide for that.
+If an AI pilot is on the agenda at {{company}}, the hard part is usually agreeing what “done” means before anything is built. Our guide breaks it into four steps:
 
-Write a brief that your operator can test
-  01: Choose a recurring case
-  02: Record the baseline
-  03: Agree a completion test
-  04: Name an owner and a stop condition
+01 Choose a recurring case
+02 Record the baseline
+03 Agree a completion test
+04 Name an owner and a stop condition
+
+The companion guide, Write down what an agent may do (https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence), covers the authority boundary. If you have a routine supply administration case in mind, send it over and I’ll sketch what a brief for it would look like.
 
 Read the pilot brief guide: https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence
-
-Write down what an agent may do: https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence — the companion guide on authority boundaries.
-
-If you have a routine supply administration case in mind, send it over and I’ll sketch what a brief for it would look like.
+Discuss a pilot: https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence
 
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

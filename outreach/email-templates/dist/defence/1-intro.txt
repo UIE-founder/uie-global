@@ -1,27 +1,32 @@
 Subject: Routine supply administration at {{company}}
 
+DEFENCE & MISSION SUPPORT
+Supply requests and maintenance records
+Coordinate routine supply, maintenance records and contract administration with explicit authority and a clear evidence trail. Keep administrative throughput moving without extending operational permissions.
+Explore defence & mission support: https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For defence & mission support teams, these are the three workflows we would look at first:
 
-For defence & mission support teams, these are the three workflows we would look at first:
+- Routine supply administration: The request, the work, who keeps authority and the evidence that closes the case.
+- Maintenance record completeness
+- Contract evidence coordination
 
-Defence & mission support: where a pilot could start
-  01: Routine supply administration
-  02: Maintenance record completeness
-  03: Contract evidence coordination
+USS Ross manoeuvring at sea, viewed from above: https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
 
-Our defence & mission support page puts it like this: “Coordinate routine supply, maintenance records and contract administration with explicit authority and a clear evidence trail. Keep administrative throughput moving without extending operational permissions.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
-
-See the defence & mission support workflows: https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
-Discuss a pilot: https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
+The page also has a calculator for putting a value on the time at your own case volumes.
 
 Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
+See the defence & mission support workflows: https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

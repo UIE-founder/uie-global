@@ -1,13 +1,16 @@
 Subject: Re: (keep the Touch 1 subject)
 
+ILLUSTRATIVE WORKFLOW
+Inside a Qlaas service.
+Follow a refund through an illustrative service, including its approval boundary and the evidence needed to close the case.
+Open the walkthrough: https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-telecoms
+
 Hi {{first_name}},
 
-A quicker way to see how this works than another email: the interactive walkthrough follows a refund through an illustrative Qlaas service.
+A quicker way to see how this works than another email: the interactive walkthrough follows one refund from request to receipt.
 
-The refund case
-  Within policy: Receive · Verify · Authorise · Execute · Reconcile · Complete
-  Exception: Delegated limit exceeded, so the case waits for human authorisation
-  Closes when: Provider and ledger agree, and the customer is notified
+Receive → Verify → Authorise → Execute → Reconcile → Complete
+Evidence: Provider and ledger agree. Within policy the case runs through all six stages. Above the delegated limit it stops and waits for human authorisation.
 
 It takes a couple of minutes, and the same pattern applies to fault coordination at {{company}}.
 
@@ -15,7 +18,8 @@ Open the walkthrough: https://uieglobal.com/platform/walkthrough/?utm_source=out
 Discuss a pilot: https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-telecoms
 
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

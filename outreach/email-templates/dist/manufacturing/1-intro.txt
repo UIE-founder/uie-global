@@ -1,27 +1,32 @@
 Subject: Quotation preparation at {{company}}
 
+MANUFACTURING & INDUSTRIAL
+Quotations, materials and quality records
+Connect enquiries, materials and quality records across the order lifecycle. Give planners, buyers and engineers the information they need without another round of spreadsheet reconciliation.
+Explore manufacturing & industrial: https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For manufacturing & industrial teams, these are the three workflows we would look at first:
 
-For manufacturing & industrial teams, these are the three workflows we would look at first:
+- Quotation preparation: The request, the work, who keeps authority and the evidence that closes the case.
+- Materials expediting
+- Quality documentation
 
-Manufacturing & industrial: where a pilot could start
-  01: Quotation preparation
-  02: Materials expediting
-  03: Quality documentation
+An engineer working beside data centre infrastructure: https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
 
-Our manufacturing & industrial page puts it like this: “Connect enquiries, materials and quality records across the order lifecycle. Give planners, buyers and engineers the information they need without another round of spreadsheet reconciliation.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
-
-See the manufacturing & industrial workflows: https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
-Discuss a pilot: https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
+The page also has a calculator for putting a value on the time at your own case volumes.
 
 Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
+See the manufacturing & industrial workflows: https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

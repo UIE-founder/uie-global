@@ -1,7 +1,8 @@
 {
   "campaign": "pilot-2026-11",
   "start": "2026-11-25",
-  "generated": "2026-11-24T22:48:54.211Z",
+  "asset_base": "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets",
+  "generated": "2026-11-25T14:24:20.724Z",
   "emails": [
     {
       "segment": "water",
@@ -12,7 +13,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Incident communications at {{company}}",
-      "preheader": "Incident communications, Repair coordination, Contractor close-out: where a water & utilities pilot could start.",
+      "preheader": "Incident communications · Repair coordination · Contractor close-out: where a water & utilities pilot could start.",
       "files": {
         "html": "water/1-intro.html",
         "text": "water/1-intro.txt"
@@ -20,10 +21,24 @@
       "landing_page": "/industries/water-utilities/",
       "pilot_option": "Water & utilities",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
         "https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water",
         "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
+        "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-water-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-water.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -31,7 +46,7 @@
       "segment_name": "Water & utilities",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -43,9 +58,23 @@
       "landing_page": "/industries/water-utilities/",
       "pilot_option": "Water & utilities",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-water",
         "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-water",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
+        "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-water-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -53,7 +82,7 @@
       "segment_name": "Water & utilities",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -65,10 +94,24 @@
       "landing_page": "/industries/water-utilities/",
       "pilot_option": "Water & utilities",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-water",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-water",
+        "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-water",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
+        "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-water-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -76,7 +119,7 @@
       "segment_name": "Water & utilities",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -88,8 +131,22 @@
       "landing_page": "/industries/water-utilities/",
       "pilot_option": "Water & utilities",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
         "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-water",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
+        "https://uieglobal.com/?pilot=Water%20%26%20utilities&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-water-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -101,7 +158,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Connection applications at {{company}}",
-      "preheader": "Connection intake, Supplier handover, Invoice reconciliation: where a energy & renewables pilot could start.",
+      "preheader": "Connection intake · Supplier handover · Invoice reconciliation: where a energy & renewables pilot could start.",
       "files": {
         "html": "energy/1-intro.html",
         "text": "energy/1-intro.txt"
@@ -109,10 +166,24 @@
       "landing_page": "/industries/energy/",
       "pilot_option": "Energy & renewables",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
         "https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy",
         "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
+        "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-energy-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-water.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -120,7 +191,7 @@
       "segment_name": "Energy & renewables",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -132,9 +203,23 @@
       "landing_page": "/industries/energy/",
       "pilot_option": "Energy & renewables",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-energy",
         "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-energy",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
+        "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-energy-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -142,7 +227,7 @@
       "segment_name": "Energy & renewables",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -154,10 +239,24 @@
       "landing_page": "/industries/energy/",
       "pilot_option": "Energy & renewables",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-energy",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-energy",
+        "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-energy",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
+        "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-energy-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -165,7 +264,7 @@
       "segment_name": "Energy & renewables",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -177,8 +276,22 @@
       "landing_page": "/industries/energy/",
       "pilot_option": "Energy & renewables",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
         "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-energy",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
+        "https://uieglobal.com/?pilot=Energy%20%26%20renewables&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-energy-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -190,7 +303,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Delivery exceptions at {{company}}",
-      "preheader": "Shipment readiness, Delivery exception handling, Proof of delivery reconciliation: where a transport & logistics pilot could start.",
+      "preheader": "Shipment readiness · Delivery exception handling · Proof of delivery reconciliation: where a transport & logistics pilot could start.",
       "files": {
         "html": "transport/1-intro.html",
         "text": "transport/1-intro.txt"
@@ -198,10 +311,24 @@
       "landing_page": "/industries/transport-logistics/",
       "pilot_option": "Transport & logistics",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
         "https://uieglobal.com/industries/transport-logistics/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport",
         "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
+        "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-transport-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -209,7 +336,7 @@
       "segment_name": "Transport & logistics",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -221,9 +348,23 @@
       "landing_page": "/industries/transport-logistics/",
       "pilot_option": "Transport & logistics",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-transport",
         "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-transport",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
+        "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-transport-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -231,7 +372,7 @@
       "segment_name": "Transport & logistics",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -243,10 +384,24 @@
       "landing_page": "/industries/transport-logistics/",
       "pilot_option": "Transport & logistics",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-transport",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-transport",
+        "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-transport",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
+        "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-transport-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -254,7 +409,7 @@
       "segment_name": "Transport & logistics",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -266,8 +421,22 @@
       "landing_page": "/industries/transport-logistics/",
       "pilot_option": "Transport & logistics",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
         "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-transport",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
+        "https://uieglobal.com/?pilot=Transport%20%26%20logistics&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-transport-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -279,7 +448,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Guest requests at {{company}}",
-      "preheader": "Guest request coordination, Returns and after-sales, Supplier invoice handling: where a commercial & hospitality pilot could start.",
+      "preheader": "Guest request coordination · Returns and after-sales · Supplier invoice handling: where a commercial & hospitality pilot could start.",
       "files": {
         "html": "hospitality/1-intro.html",
         "text": "hospitality/1-intro.txt"
@@ -287,10 +456,24 @@
       "landing_page": "/industries/commercial-hospitality/",
       "pilot_option": "Commercial & hospitality",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
         "https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality",
         "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
+        "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-hospitality-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -298,7 +481,7 @@
       "segment_name": "Commercial & hospitality",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -310,9 +493,23 @@
       "landing_page": "/industries/commercial-hospitality/",
       "pilot_option": "Commercial & hospitality",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-hospitality",
         "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-hospitality",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
+        "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-hospitality-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -320,7 +517,7 @@
       "segment_name": "Commercial & hospitality",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -332,10 +529,24 @@
       "landing_page": "/industries/commercial-hospitality/",
       "pilot_option": "Commercial & hospitality",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-hospitality",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-hospitality",
+        "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-hospitality",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
+        "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-hospitality-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -343,7 +554,7 @@
       "segment_name": "Commercial & hospitality",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -355,8 +566,22 @@
       "landing_page": "/industries/commercial-hospitality/",
       "pilot_option": "Commercial & hospitality",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
         "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-hospitality",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
+        "https://uieglobal.com/?pilot=Commercial%20%26%20hospitality&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-hospitality-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -368,7 +593,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Fault coordination at {{company}}",
-      "preheader": "Fault coordination, Remote-hands requests, Service change administration: where a data & telecommunications pilot could start.",
+      "preheader": "Fault coordination · Remote-hands requests · Service change administration: where a data & telecommunications pilot could start.",
       "files": {
         "html": "telecoms/1-intro.html",
         "text": "telecoms/1-intro.txt"
@@ -376,10 +601,24 @@
       "landing_page": "/industries/data-telecommunications/",
       "pilot_option": "Data & telecommunications",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
         "https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms",
         "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
+        "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-telecoms-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -387,7 +626,7 @@
       "segment_name": "Data & telecommunications",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -399,9 +638,23 @@
       "landing_page": "/industries/data-telecommunications/",
       "pilot_option": "Data & telecommunications",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-telecoms",
         "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-telecoms",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
+        "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-telecoms-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -409,7 +662,7 @@
       "segment_name": "Data & telecommunications",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -421,10 +674,24 @@
       "landing_page": "/industries/data-telecommunications/",
       "pilot_option": "Data & telecommunications",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-telecoms",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-telecoms",
+        "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-telecoms",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
+        "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-telecoms-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -432,7 +699,7 @@
       "segment_name": "Data & telecommunications",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -444,8 +711,22 @@
       "landing_page": "/industries/data-telecommunications/",
       "pilot_option": "Data & telecommunications",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
         "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-telecoms",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
+        "https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-telecoms-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -457,7 +738,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Quotation preparation at {{company}}",
-      "preheader": "Quotation preparation, Materials expediting, Quality documentation: where a manufacturing & industrial pilot could start.",
+      "preheader": "Quotation preparation · Materials expediting · Quality documentation: where a manufacturing & industrial pilot could start.",
       "files": {
         "html": "manufacturing/1-intro.html",
         "text": "manufacturing/1-intro.txt"
@@ -465,10 +746,24 @@
       "landing_page": "/industries/manufacturing/",
       "pilot_option": "Manufacturing & industrial",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
         "https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing",
         "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
+        "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-manufacturing-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -476,7 +771,7 @@
       "segment_name": "Manufacturing & industrial",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -488,9 +783,23 @@
       "landing_page": "/industries/manufacturing/",
       "pilot_option": "Manufacturing & industrial",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-manufacturing",
         "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-manufacturing",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
+        "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-manufacturing-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -498,7 +807,7 @@
       "segment_name": "Manufacturing & industrial",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -510,10 +819,24 @@
       "landing_page": "/industries/manufacturing/",
       "pilot_option": "Manufacturing & industrial",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-manufacturing",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-manufacturing",
+        "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-manufacturing",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
+        "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-manufacturing-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -521,7 +844,7 @@
       "segment_name": "Manufacturing & industrial",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -533,8 +856,22 @@
       "landing_page": "/industries/manufacturing/",
       "pilot_option": "Manufacturing & industrial",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
         "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-manufacturing",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
+        "https://uieglobal.com/?pilot=Manufacturing%20%26%20industrial&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-manufacturing-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -546,7 +883,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Application completeness at {{company}}",
-      "preheader": "Application completeness, Procurement clarification, Inter-office handovers: where a public institutions pilot could start.",
+      "preheader": "Application completeness · Procurement clarification · Inter-office handovers: where a public institutions pilot could start.",
       "files": {
         "html": "public/1-intro.html",
         "text": "public/1-intro.txt"
@@ -554,10 +891,24 @@
       "landing_page": "/industries/public-institutions/",
       "pilot_option": "Public institutions",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
         "https://uieglobal.com/industries/public-institutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public",
         "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
+        "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-public-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -565,7 +916,7 @@
       "segment_name": "Public institutions",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -577,9 +928,23 @@
       "landing_page": "/industries/public-institutions/",
       "pilot_option": "Public institutions",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-public",
         "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-public",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
+        "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-public-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -587,7 +952,7 @@
       "segment_name": "Public institutions",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -599,10 +964,24 @@
       "landing_page": "/industries/public-institutions/",
       "pilot_option": "Public institutions",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-public",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-public",
+        "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-public",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
+        "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-public-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -610,7 +989,7 @@
       "segment_name": "Public institutions",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -622,8 +1001,22 @@
       "landing_page": "/industries/public-institutions/",
       "pilot_option": "Public institutions",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
         "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-public",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
+        "https://uieglobal.com/?pilot=Public%20institutions&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-public-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -635,7 +1028,7 @@
       "send_on": "2026-11-25",
       "reply_in_thread": false,
       "subject": "Routine supply administration at {{company}}",
-      "preheader": "Routine supply administration, Maintenance record completeness, Contract evidence coordination: where a defence & mission support pilot could start.",
+      "preheader": "Routine supply administration · Maintenance record completeness · Contract evidence coordination: where a defence & mission support pilot could start.",
       "files": {
         "html": "defence/1-intro.html",
         "text": "defence/1-intro.txt"
@@ -643,10 +1036,24 @@
       "landing_page": "/industries/defence/",
       "pilot_option": "Defence & mission support",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
         "https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence",
         "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
+        "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-defence.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -654,7 +1061,7 @@
       "segment_name": "Defence & mission support",
       "kind": "industry",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -666,9 +1073,23 @@
       "landing_page": "/industries/defence/",
       "pilot_option": "Defence & mission support",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-defence",
         "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-defence",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
+        "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -676,7 +1097,7 @@
       "segment_name": "Defence & mission support",
       "kind": "industry",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -688,10 +1109,24 @@
       "landing_page": "/industries/defence/",
       "pilot_option": "Defence & mission support",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence",
+        "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
+        "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -699,7 +1134,7 @@
       "segment_name": "Defence & mission support",
       "kind": "industry",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -711,8 +1146,22 @@
       "landing_page": "/industries/defence/",
       "pilot_option": "Defence & mission support",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
         "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-defence",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
+        "https://uieglobal.com/?pilot=Defence%20%26%20mission%20support&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -732,10 +1181,24 @@
       "landing_page": "/solutions/customer-operations/",
       "pilot_option": "Customer operations",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
         "https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops",
         "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
+        "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-customer-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -743,7 +1206,7 @@
       "segment_name": "Customer operations",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -755,9 +1218,23 @@
       "landing_page": "/solutions/customer-operations/",
       "pilot_option": "Customer operations",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-customer-ops",
         "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-customer-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
+        "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-customer-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -765,7 +1242,7 @@
       "segment_name": "Customer operations",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -777,10 +1254,24 @@
       "landing_page": "/solutions/customer-operations/",
       "pilot_option": "Customer operations",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-customer-ops",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-customer-ops",
+        "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-customer-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
+        "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-customer-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -788,7 +1279,7 @@
       "segment_name": "Customer operations",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -800,8 +1291,22 @@
       "landing_page": "/solutions/customer-operations/",
       "pilot_option": "Customer operations",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
         "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-customer-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
+        "https://uieglobal.com/?pilot=Customer%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-customer-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -821,10 +1326,24 @@
       "landing_page": "/solutions/procurement/",
       "pilot_option": "Procurement",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
         "https://uieglobal.com/solutions/procurement/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement",
         "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
+        "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-procurement-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -832,7 +1351,7 @@
       "segment_name": "Procurement",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -844,9 +1363,23 @@
       "landing_page": "/solutions/procurement/",
       "pilot_option": "Procurement",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement",
         "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
+        "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-procurement-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -854,7 +1387,7 @@
       "segment_name": "Procurement",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -866,10 +1399,24 @@
       "landing_page": "/solutions/procurement/",
       "pilot_option": "Procurement",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-procurement",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-procurement",
+        "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-procurement",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
+        "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-procurement-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -877,7 +1424,7 @@
       "segment_name": "Procurement",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -889,8 +1436,22 @@
       "landing_page": "/solutions/procurement/",
       "pilot_option": "Procurement",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
         "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-procurement",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
+        "https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-procurement-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -910,10 +1471,24 @@
       "landing_page": "/solutions/finance-administration/",
       "pilot_option": "Finance administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
         "https://uieglobal.com/solutions/finance-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance",
         "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
+        "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-finance-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -921,7 +1496,7 @@
       "segment_name": "Finance administration",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -933,9 +1508,23 @@
       "landing_page": "/solutions/finance-administration/",
       "pilot_option": "Finance administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-finance",
         "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-finance",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
+        "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-finance-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -943,7 +1532,7 @@
       "segment_name": "Finance administration",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -955,10 +1544,24 @@
       "landing_page": "/solutions/finance-administration/",
       "pilot_option": "Finance administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-finance",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-finance",
+        "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-finance",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
+        "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-finance-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -966,7 +1569,7 @@
       "segment_name": "Finance administration",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -978,8 +1581,22 @@
       "landing_page": "/solutions/finance-administration/",
       "pilot_option": "Finance administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
         "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-finance",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
+        "https://uieglobal.com/?pilot=Finance%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-finance-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -999,10 +1616,24 @@
       "landing_page": "/solutions/government-services/",
       "pilot_option": "Government services",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
         "https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov",
         "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
+        "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-gov-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1010,7 +1641,7 @@
       "segment_name": "Government services",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1022,9 +1653,23 @@
       "landing_page": "/solutions/government-services/",
       "pilot_option": "Government services",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-gov",
         "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-gov",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
+        "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-gov-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1032,7 +1677,7 @@
       "segment_name": "Government services",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -1044,10 +1689,24 @@
       "landing_page": "/solutions/government-services/",
       "pilot_option": "Government services",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-gov",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-gov",
+        "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-gov",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
+        "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-gov-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1055,7 +1714,7 @@
       "segment_name": "Government services",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1067,8 +1726,22 @@
       "landing_page": "/solutions/government-services/",
       "pilot_option": "Government services",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
         "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-gov",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
+        "https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-gov-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1088,10 +1761,24 @@
       "landing_page": "/solutions/defence-logistics-administration/",
       "pilot_option": "Defence logistics administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
         "https://uieglobal.com/solutions/defence-logistics-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics",
         "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
+        "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-defence-logistics-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-defence.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1099,7 +1786,7 @@
       "segment_name": "Defence logistics administration",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1111,9 +1798,23 @@
       "landing_page": "/solutions/defence-logistics-administration/",
       "pilot_option": "Defence logistics administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-defence-logistics",
         "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-defence-logistics",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
+        "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-defence-logistics-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1121,7 +1822,7 @@
       "segment_name": "Defence logistics administration",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -1133,10 +1834,24 @@
       "landing_page": "/solutions/defence-logistics-administration/",
       "pilot_option": "Defence logistics administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence-logistics",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence-logistics",
+        "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-defence-logistics",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
+        "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-defence-logistics-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1144,7 +1859,7 @@
       "segment_name": "Defence logistics administration",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1156,8 +1871,22 @@
       "landing_page": "/solutions/defence-logistics-administration/",
       "pilot_option": "Defence logistics administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
         "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-defence-logistics",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
+        "https://uieglobal.com/?pilot=Defence%20logistics%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-defence-logistics-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1177,10 +1906,24 @@
       "landing_page": "/solutions/tender-administration/",
       "pilot_option": "Tender administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
         "https://uieglobal.com/solutions/tender-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender",
         "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
+        "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-tender-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1188,7 +1931,7 @@
       "segment_name": "Tender administration",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1200,9 +1943,23 @@
       "landing_page": "/solutions/tender-administration/",
       "pilot_option": "Tender administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-tender",
         "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-tender",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
+        "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-tender-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1210,7 +1967,7 @@
       "segment_name": "Tender administration",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -1222,10 +1979,24 @@
       "landing_page": "/solutions/tender-administration/",
       "pilot_option": "Tender administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-tender",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-tender",
+        "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-tender",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
+        "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-tender-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1233,7 +2004,7 @@
       "segment_name": "Tender administration",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1245,8 +2016,22 @@
       "landing_page": "/solutions/tender-administration/",
       "pilot_option": "Tender administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
         "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-tender",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
+        "https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-tender-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1266,10 +2051,24 @@
       "landing_page": "/solutions/sales-operations/",
       "pilot_option": "Sales operations",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
         "https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops",
         "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
+        "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-sales-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1277,7 +2076,7 @@
       "segment_name": "Sales operations",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1289,9 +2088,23 @@
       "landing_page": "/solutions/sales-operations/",
       "pilot_option": "Sales operations",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-sales-ops",
         "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-sales-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
+        "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-sales-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1299,7 +2112,7 @@
       "segment_name": "Sales operations",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -1311,10 +2124,24 @@
       "landing_page": "/solutions/sales-operations/",
       "pilot_option": "Sales operations",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-sales-ops",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-sales-ops",
+        "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-sales-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
+        "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-sales-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1322,7 +2149,7 @@
       "segment_name": "Sales operations",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1334,8 +2161,22 @@
       "landing_page": "/solutions/sales-operations/",
       "pilot_option": "Sales operations",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
         "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-sales-ops",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
+        "https://uieglobal.com/?pilot=Sales%20operations&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-sales-ops-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1355,10 +2196,24 @@
       "landing_page": "/solutions/institutional-administration/",
       "pilot_option": "Institutional administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
         "https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional",
         "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
+        "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-institutional-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1366,7 +2221,7 @@
       "segment_name": "Institutional administration",
       "kind": "function",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1378,9 +2233,23 @@
       "landing_page": "/solutions/institutional-administration/",
       "pilot_option": "Institutional administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-institutional",
         "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-institutional",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
+        "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-institutional-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1388,7 +2257,7 @@
       "segment_name": "Institutional administration",
       "kind": "function",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -1400,10 +2269,24 @@
       "landing_page": "/solutions/institutional-administration/",
       "pilot_option": "Institutional administration",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-institutional",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-institutional",
+        "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-institutional",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
+        "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-institutional-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1411,7 +2294,7 @@
       "segment_name": "Institutional administration",
       "kind": "function",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1423,8 +2306,22 @@
       "landing_page": "/solutions/institutional-administration/",
       "pilot_option": "Institutional administration",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
         "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-institutional",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
+        "https://uieglobal.com/?pilot=Institutional%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-institutional-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1444,10 +2341,26 @@
       "landing_page": "/platform/qlaas-dmi/",
       "pilot_option": "Qlaas DMI",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
         "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi",
         "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
+        "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=1-dmi-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/glyph-endpoint.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/glyph-orchestration.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1455,7 +2368,7 @@
       "segment_name": "Qlaas DMI",
       "kind": "technical",
       "touch": "2-walkthrough",
-      "label": "Touch 2 · Walkthrough (reply in thread)",
+      "label": "Touch 2 · Walkthrough",
       "send_on": "2026-11-30",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1467,9 +2380,23 @@
       "landing_page": "/platform/qlaas-dmi/",
       "pilot_option": "Qlaas DMI",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
         "https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-dmi",
         "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-dmi",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
+        "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=2-dmi-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1477,7 +2404,7 @@
       "segment_name": "Qlaas DMI",
       "kind": "technical",
       "touch": "3-pilot-brief",
-      "label": "Touch 3 · Pilot brief (new thread)",
+      "label": "Touch 3 · Pilot brief",
       "send_on": "2026-12-03",
       "reply_in_thread": false,
       "subject": "A pilot brief your operator can test",
@@ -1489,10 +2416,24 @@
       "landing_page": "/platform/qlaas-dmi/",
       "pilot_option": "Qlaas DMI",
       "links": [
-        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-logo",
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
         "https://uieglobal.com/resources/pilot-brief/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-dmi",
         "https://uieglobal.com/resources/authority-boundaries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-dmi",
+        "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t3-dmi",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
+        "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=3-dmi-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     },
     {
@@ -1500,7 +2441,7 @@
       "segment_name": "Qlaas DMI",
       "kind": "technical",
       "touch": "4-close",
-      "label": "Touch 4 · Close the file (reply in thread)",
+      "label": "Touch 4 · Close the file",
       "send_on": "2026-12-10",
       "reply_in_thread": true,
       "subject": "Re: (keep the Touch 1 subject)",
@@ -1512,8 +2453,22 @@
       "landing_page": "/platform/qlaas-dmi/",
       "pilot_option": "Qlaas DMI",
       "links": [
+        "https://uieglobal.com/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
         "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t4-dmi",
+        "https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
+        "https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
+        "https://uieglobal.com/industries/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
+        "https://uieglobal.com/solutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
+        "https://uieglobal.com/resources/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
+        "https://uieglobal.com/company/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
+        "https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=4-dmi-footer",
         "https://uieglobal.com/legal/"
+      ],
+      "images": [
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@f766f1ecf1dfa8f3a57aa68039e436cc76a05c1c/outreach/email-templates/assets/wordmark-glass.png"
       ]
     }
   ]

@@ -1,27 +1,32 @@
 Subject: Fault coordination at {{company}}
 
+DATA & TELECOMMUNICATIONS
+Network faults and service changes
+Connect customer requests to network providers, service desks and field operations. Replace repeated status checks with a clear record of ownership, next action and outcome.
+Explore data & telecommunications: https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For data & telecommunications teams, these are the three workflows we would look at first:
 
-For data & telecommunications teams, these are the three workflows we would look at first:
+- Fault coordination: The request, the work, who keeps authority and the evidence that closes the case.
+- Remote-hands requests
+- Service change administration
 
-Data & telecommunications: where a pilot could start
-  01: Fault coordination
-  02: Remote-hands requests
-  03: Service change administration
+Server racks and monitoring equipment in a data centre: https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
 
-Our data & telecommunications page puts it like this: “Connect customer requests to network providers, service desks and field operations. Replace repeated status checks with a clear record of ownership, next action and outcome.” For each workflow it sets out the request, the work, who keeps authority and the evidence that closes the case. There is also a calculator for putting a value on the time at your own case volumes.
-
-See the data & telecommunications workflows: https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
-Discuss a pilot: https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
+The page also has a calculator for putting a value on the time at your own case volumes.
 
 Would it be worth 20 minutes to pick one recurring case at {{company}} and see whether it fits?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Data%20%26%20telecommunications&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
+See the data & telecommunications workflows: https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

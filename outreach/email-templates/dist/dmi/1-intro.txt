@@ -1,25 +1,31 @@
 Subject: Agent access to {{company}}’s systems
 
+QLAAS DMI
+Your organisation. Agent accessible.
+A structured endpoint beside your existing systems. Give authorised agents a direct route to information, actions and the evidence of what happened.
+Explore Qlaas DMI: https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-Qlaas DMI is a structured endpoint beside your existing systems. It gives authorised agents a direct route to information, actions and the evidence of what happened.
+If {{company}} is starting to connect agents to internal systems, the two Qlaas layers below are how we do it: one defines what an agent may touch, the other coordinates the work and checks the result.
 
-How an action is exposed
-  01: Expose an action
-  02: Assign explicit authority
-  03: Return a checkable result
+Qlaas DMI — Define the actions an agent can request, the records it can access and when its permission expires.
+Explore DMI: https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi
 
-You define the actions an agent can request, the records it can access and when its permission expires. The page links the live MCP endpoint, the communications OpenAPI description and the discovery document.
+Qlaas Services — Route requests between people and systems. Track approvals and match the result to the original case.
+Explore Services: https://uieglobal.com/platform/qlaas-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi
 
-Explore Qlaas DMI: https://uieglobal.com/platform/qlaas-dmi/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi
+The DMI page links the live MCP endpoint, the communications OpenAPI description and the discovery document, if you want to look under the bonnet first.
+
+Would a short technical call be useful?
+
 Discuss a pilot: https://uieglobal.com/?pilot=Qlaas%20DMI&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-dmi
 
-If you are already connecting agents to internal systems, would a short technical call be useful?
-
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

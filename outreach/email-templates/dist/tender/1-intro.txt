@@ -1,27 +1,32 @@
 Subject: Tender submissions at {{company}}
 
+TENDER ADMINISTRATION
+Prepare a submission for sign-off.
+Retrieve the tender pack, organise translations and map the response to the submission requirements.
+See the workflow: https://uieglobal.com/solutions/tender-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with tender administration teams, and where the line sits between what is delegated and what stays with you:
 
-One workflow we would pilot with tender administration teams:
+- Tender administration: Retrieve the tender pack, organise translations and map the response to the submission requirements.
+- Stays with you: The bid owner approves pricing, final representations and submission.
+- When it goes off-script: An invitation refers to a separate technical pack.
 
-Tender administration
-  Delegated: Retrieve the tender pack, organise translations and map the response to the submission requirements.
-  Stays with you: The bid owner approves pricing, final representations and submission.
-  Exception: An invitation refers to a separate technical pack.
+An engineer working beside data centre infrastructure: https://uieglobal.com/solutions/tender-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender
 
 The page shows how that exception is handled and which records prove the case is complete.
 
-See the tender administration workflow: https://uieglobal.com/solutions/tender-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender
-Discuss a pilot: https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender
-
 Is this something your team handles enough of to be worth a 20-minute conversation?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Tender%20administration&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender
+See the tender administration workflow: https://uieglobal.com/solutions/tender-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-tender
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

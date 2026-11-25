@@ -1,27 +1,32 @@
 Subject: Application handling at {{company}}
 
+GOVERNMENT SERVICES
+Route an application with its evidence.
+Receive applications, organise supporting records and communicate progress through the authorised channel.
+See the workflow: https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
+
 Hi {{first_name}},
 
 {{personal_line}}
 
-At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result.
+At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with government services teams, and where the line sits between what is delegated and what stays with you:
 
-One workflow we would pilot with government services teams:
+- Government services: Receive applications, organise supporting records and communicate progress through the authorised channel.
+- Stays with you: Statutory decisions, appeals and sensitive disclosures stay with authorised officials.
+- When it goes off-script: An application is missing a supporting record.
 
-Government services
-  Delegated: Receive applications, organise supporting records and communicate progress through the authorised channel.
-  Stays with you: Statutory decisions, appeals and sensitive disclosures stay with authorised officials.
-  Exception: An application is missing a supporting record.
+Communications antenna at the Goldstone ground station: https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
 
 The page shows how that exception is handled and which records prove the case is complete.
 
-See the government services workflow: https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
-Discuss a pilot: https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
-
 Is this something your team handles enough of to be worth a 20-minute conversation?
 
+Discuss a pilot: https://uieglobal.com/?pilot=Government%20services&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
+See the government services workflow: https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
+
 {{sender_name}}
-{{sender_title}}, UIE
+{{sender_title}}, UIE Ltd
+{{sender_email}}
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
