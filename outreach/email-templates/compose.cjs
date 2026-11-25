@@ -21,6 +21,21 @@ const uri = (f) => 'file://' + path.join(SRC, f);
 const svg = (f) => fs.readFileSync(path.join(SRC, f), 'utf8');
 const SURFACE = '#F4F5F2'; // Figma body surface / chamfer fill
 
+// The site's "uie-polished" outline (computed clip-path on uieglobal.com, 25 Nov 2026):
+// rounded corners of radius r, then a straight bottom-right cut of cx × cy whose two joins are
+// rounded over j px. E.g. a 144×46 button is
+//   M 5 0 H 139 Q 144 0 144 5 V 28.58 Q 144 33.58 140.5 37.08 L 135.08 42.5 Q 131.58 46 126.58 46 H 5 …
+// which is r = 5, cx = cy = 12.42, j = 5.
+function polished(W, H, { r = 5, cx, cy = cx, j = 5, x0 = 0, y0 = 0, rTL = r, rTR = r, rBL = r } = {}) {
+  const len = Math.hypot(cx, cy), ux = -cx / len, uy = cy / len;
+  const A = [W, H - cy], B = [W - cx, H];
+  const f = (n) => +n.toFixed(2);
+  const X = (x) => f(x0 + x), Y = (y) => f(y0 + y);
+  return `M ${X(rTL)} ${Y(0)} H ${X(W - rTR)} Q ${X(W)} ${Y(0)} ${X(W)} ${Y(rTR)} V ${Y(A[1] - j)} ` +
+    `Q ${X(A[0])} ${Y(A[1])} ${X(A[0] + ux * j)} ${Y(A[1] + uy * j)} L ${X(B[0] - ux * j)} ${Y(B[1] - uy * j)} ` +
+    `Q ${X(B[0])} ${Y(B[1])} ${X(B[0] - j)} ${Y(B[1])} H ${X(rBL)} Q ${X(0)} ${Y(H)} ${X(0)} ${Y(H - rBL)} V ${Y(rTL)} Q ${X(0)} ${Y(0)} ${X(rTL)} ${Y(0)} Z`;
+}
+
 // Light trails: inset percentages of the 1440×810 Earth frame (from 123:225).
 const TRAILS = [
   ['35.71%', '73.78%', '63.57%', '25.91%'], ['35.07%', '67.49%', '64.24%', '29.94%'],
@@ -36,27 +51,40 @@ function heroHTML({ W = 1440, H = 900, mast = 120 } = {}) {
   const fw = Math.max(W, (H + 40) * 1440 / 810), fh = fw * 810 / 1440;
   const left = (W - fw) / 2 + fw * 0.06;  // keep Europe/Africa in view, like the Figma crop
   const top = -28.52 * k;
-  const cut = Math.round(mast * 0.36);
+  const cut = 34;
   return `<!doctype html><html><body style="margin:0;background:#102b42">
 <div style="position:relative;width:${W}px;height:${H}px;overflow:hidden;background:#102b42;font:0/0 a">
   <div style="position:absolute;left:${left}px;top:${top}px;width:${fw}px;height:${fh}px">
     <img src="${uri('earth-blue-marble.jpg')}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">
     ${TRAILS.map(([t, r, b, l], i) => `<img src="${uri(`trail${i + 1}.svg`)}" style="position:absolute;top:${t};right:${r};bottom:${b};left:${l};width:calc(100% - ${l} - ${r});height:calc(100% - ${t} - ${b})">`).join('')}
   </div>
-  <div style="position:absolute;inset:0;background:linear-gradient(90deg, rgba(5,19,33,.86) 0%, rgba(5,19,33,.74) 58%, rgba(5,19,33,.12) 92%, rgba(5,19,33,.09) 100%)"></div>
+  <div style="position:absolute;inset:0;background:linear-gradient(90deg, rgba(5,19,33,.9) 0%, rgba(5,19,33,.84) 55%, rgba(5,19,33,.58) 78%, rgba(5,19,33,.22) 100%)"></div>
   <div style="position:absolute;left:0;right:0;bottom:0;height:${H * 0.35}px;background:linear-gradient(180deg, rgba(16,43,66,0) 0%, rgba(16,43,66,.55) 100%)"></div>
-  <svg width="${W}" height="${mast}" viewBox="0 0 ${W} ${mast}" style="position:absolute;left:0;top:0"><path d="M0 0H${W}V${mast - cut}L${W - cut} ${mast}H0Z" fill="${SURFACE}" fill-opacity=".91"/></svg>
+  <svg width="${W}" height="${mast}" viewBox="0 0 ${W} ${mast}" style="position:absolute;left:0;top:0"><path d="${polished(W, mast, { r: 0, rBL: 12, cx: cut, j: 12 })}" fill="${SURFACE}" fill-opacity=".93"/></svg>
   <img src="${uri('wordmark-glass.svg')}" style="position:absolute;left:72px;top:${(mast - 58) / 2}px;width:150px;height:58px">
-  <svg width="120" height="120" viewBox="0 0 120 120" style="position:absolute;right:0;bottom:0"><path d="M0 120L120 0V120H0Z" fill="${SURFACE}"/></svg>
+  <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="position:absolute;left:0;top:0"><path fill-rule="evenodd" d="M0 0H${W}V${H}H0Z ${polished(W, H, { r: 0, cx: 110, j: 16 })}" fill="${SURFACE}"/></svg>
 </div></body></html>`;
 }
 
-function photoHTML(file, { W = 1040, H = 560, chamfer = 44, pos = 'center' } = {}) {
+function photoHTML(file, { W = 1040, H = 560, pos = 'center', cx = Math.round(W * 0.23), cy = Math.round(H * 0.30) } = {}) {
   return `<!doctype html><html><body style="margin:0">
 <div style="position:relative;width:${W}px;height:${H}px;overflow:hidden;background:${SURFACE}">
   <img src="${uri(file)}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:${pos}">
-  <svg width="${chamfer}" height="${chamfer}" viewBox="0 0 ${chamfer} ${chamfer}" style="position:absolute;right:0;bottom:0"><path d="M0 ${chamfer}L${chamfer} 0V${chamfer}H0Z" fill="${SURFACE}"/></svg>
+  <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="position:absolute;left:0;top:0"><path fill-rule="evenodd" d="M0 0H${W}V${H}H0Z ${polished(W, H, { r: 10, cx, cy, j: 14 })}" fill="${SURFACE}"/></svg>
 </div></body></html>`;
+}
+
+// Right-edge strip of a polished shape, cut out of a wide virtual shape so its geometry is
+// identical to the site's: the strip is the rightmost w px (buttons) or the bottom-right w×h
+// corner (cards). Inside = fill; outside = bg (or transparent over imagery).
+function stripHTML({ w, h, boxH, fill, bg, cx, j = 5, r = 5, corner = false }) {
+  const BW = 400, BH = corner ? 400 : boxH;
+  const vx = BW - w, vy = corner ? BH - h : 0;
+  return `<!doctype html><html><body style="margin:0;background:transparent">
+<svg width="${w}" height="${h}" viewBox="${vx} ${vy} ${w} ${h}" style="display:block">
+  ${bg ? `<rect x="${vx}" y="${vy}" width="${w}" height="${h}" fill="${bg}"/>` : ''}
+  <path d="${polished(BW, BH, { r, cx, j })}" fill="${fill}"/>
+</svg></body></html>`;
 }
 
 const layered = (files, size, inner, bg = 'transparent') => `<!doctype html><html><body style="margin:0;background:${bg}">
@@ -112,6 +140,21 @@ im.crop((0, 100, 1200, 750)).save(${JSON.stringify(path.join(OUT, 'hero-orbit.jp
   await shot2(single('wordmark-glass.svg', 160, 62), 'wordmark-glass.png', 160, 62, { transparent: true });
   await shot2(layered(['glyph-endpoint-structure.svg', 'glyph-endpoint-accent.svg'], 96, 64), 'glyph-endpoint.png', 96, 96, { transparent: true });
   await shot2(layered(['glyph-orch-structure.svg', 'glyph-orch-accent0.svg', 'glyph-orch-accent1.svg'], 96, 64), 'glyph-orchestration.png', 96, 96, { transparent: true });
+  // Buttons: 46 px tall (site .primary/.action), 5 px radius, 12.42 px cut, 5 px joins. Rendered at 2x.
+  const BTN = [
+    ['btn-ink', '#0c3041', SURFACE],      // .primary / .contact on porcelain
+    ['btn-ice', '#e8f1f5', SURFACE],      // .action (light) on porcelain
+    ['btn-hero', '#e9f5fb', null],        // hero .primary over imagery (transparent outside)
+    ['btn-ink-on-ice', '#0c3041', '#e5f0f7'],   // primary inside an ice card
+    ['btn-ice-on-white', '#e8f1f5', '#ffffff'], // light action inside a white card
+  ];
+  for (const [name, fill, bg] of BTN) {
+    await shot2(stripHTML({ w: 40, h: 92, boxH: 92, fill, bg, cx: 24.84, j: 10, r: 10 }), `${name}.png`, 40, 92, { transparent: !bg });
+  }
+  // Cards: 5 px radius, 22 px cut (site .u-platform / .u-cinema-brief), 5 px joins. Corner tile 32×32 @2x.
+  for (const [name, fill] of [['card-ice', '#e5f0f7'], ['card-white', '#ffffff'], ['card-paper', '#f4f3f0']]) {
+    await shot2(stripHTML({ w: 64, h: 64, fill, bg: SURFACE, cx: 44, j: 10, r: 10, corner: true }), `${name}.png`, 64, 64);
+  }
   await b2.close();
   fs.unlinkSync(TMP);
 })();
