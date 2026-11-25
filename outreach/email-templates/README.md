@@ -4,6 +4,8 @@ A four-touch outreach sequence for **uieglobal.com**, with variants for 17 prosp
 
 Every email is built from the Figma file **UIE — Holographic Blue**: the Horizon Arc wordmark, the orbital Earth hero, the homepage photography with its chamfered corner, the interface components and the designed email signature. See "Design source" below.
 
+**Figma review file:** [UIE — Outreach email templates](https://www.figma.com/design/4s8GnNiLXZhUIitRlRtWXO). It has a cover with the send calendar and segment → page → form map, the component sheet, and one page per touch with all 17 segments (sample names filled in). Regenerate the import boards with `node figma-export.mjs`.
+
 ```bash
 node compose.cjs                  # re-render image assets from the Figma layers (needs Playwright)
 node build.mjs                    # rebuild dist/
@@ -150,4 +152,5 @@ src/links.mjs        URL builder, live dialog options, UTM rules
 dist/<segment>/      templates to load into the sending tool (.html + .txt)
 dist/manifest.json   subjects, preheaders, send dates, links
 dist/preview/        review gallery with sample values (do not send these)
+figma-export.mjs     builds self-contained boards (figma/, not committed) for the Figma review file
 ```
