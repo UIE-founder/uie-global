@@ -1,6 +1,6 @@
 Subject: Incident communications at {{company}}
 
-WATER & UTILITIES
+UIE / Industries / Water & utilities
 Incident response and repair records
 Link incident records, field-team updates and customer notices to the same case. The operator directs network response and authorises public updates.
 Explore water & utilities: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For water & utilities teams, these are the three workflows we would look at first:
 
-- Incident communications: The request, the work, who keeps authority and the evidence that closes the case.
-- Repair coordination
-- Contractor close-out
+- Incident communications: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water)
+- Repair coordination (https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water)
+- Contractor close-out (https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water)
 
 A dam spanning a river valley, connecting water and energy infrastructure: https://uieglobal.com/industries/water-utilities/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-water
 
@@ -27,6 +27,7 @@ See the water & utilities workflows: https://uieglobal.com/industries/water-util
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

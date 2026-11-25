@@ -1,25 +1,27 @@
 Subject: Re: (keep the Touch 1 subject)
 
-ILLUSTRATIVE WORKFLOW
+UIE / Platform / Walkthrough
 Inside a Qlaas service.
 Follow a refund through an illustrative service, including its approval boundary and the evidence needed to close the case.
-Open the walkthrough: https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement
+Open the refund case: https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement#case
 
 Hi {{first_name}},
 
 A quicker way to see how this works than another email: the interactive walkthrough follows one refund from request to receipt.
 
 Receive → Verify → Authorise → Execute → Reconcile → Complete
+https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement#case
 Evidence: Provider and ledger agree. Within policy the case runs through all six stages. Above the delegated limit it stops and waits for human authorisation.
 
 It takes a couple of minutes, and the same pattern applies to quotation requests at {{company}}.
 
-Open the walkthrough: https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement
+Open the walkthrough: https://uieglobal.com/platform/walkthrough/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement#case
 Discuss a pilot: https://uieglobal.com/?pilot=Procurement&utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t2-procurement
 
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

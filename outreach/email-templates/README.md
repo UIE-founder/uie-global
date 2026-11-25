@@ -80,24 +80,54 @@ These use `{{double_brace}}` syntax, which Resend, Instantly, Lemlist, Apollo an
 
 ## Design source
 
-Figma file **UIE — Holographic Blue** (`AZmpT0rrLBpJt4YTA0DBpv`). Each email component names its Figma node in `src/layout.mjs`.
+Two sources, reconciled. The Figma file **UIE — Holographic Blue** (`AZmpT0rrLBpJt4YTA0DBpv`) supplies the identity, imagery and components. The **live uieglobal.com** supplies the final geometry, type and colour, read from its computed styles on 25 Nov 2026. Where the two differ, the live site wins.
 
-| Email part | Figma source |
+**Shapes (the site's `uie-polished` outline).** Every control, card and image on the site has 5 px corners and a chamfered bottom-right corner whose two joins are rounded:
+
+| Element | Site geometry | In the email |
+|---|---|---|
+| Buttons (46 px) | r 5, cut 12.4, joins 5 | Live text cell plus a 20 × 46 right-edge image (`btn-*.png`) |
+| Cards and panels | r 5, cut 22, joins 5 | Live content plus a 32 × 32 corner tile (`card-*.png`) |
+| Photos | Asymmetric cut, 23% × 30%, 6 px soft joins | Built into `photo-*.jpg` |
+| Hero | Cut 7.6vw (46 px at 600), soft joins | Built into `hero-orbit.jpg` |
+| Masthead | Glass bar with a soft bottom-right cut | Built into `hero-masthead.png` |
+
+Email clients strip CSS `clip-path`, so `compose.cjs` renders each edge or corner image from the same path generator (`polished()`) that reproduces the site's computed clip-path. Each strip comes in a variant for the background it sits on, so the cut always shows the right colour.
+
+**Type and colour (live site).** Instrument Sans with a Helvetica/Arial fallback. Ink `#0c3041`, muted `#416371`, link `#155c80`, accent `#0c70ae`, porcelain `#f4f5f2`, hero `#102b42` / `#f4f7fa`, hero button `#e9f5fb` / `#13364b`, action `#e8f1f5` / `#15364a`.
+
+**From Figma.** Horizon Arc wordmark (glass), orbital Earth hero (Blue Marble, orbit veil, city light trails), Service rows (39:41 / 39:46), Trace stages (39:52 / 39:55), Qlaas product cards and glyphs (100:87), implementation stage lines (40:121), the email signature (11:257) and the footer directory (100:162).
+
+## Everything is a working link
+
+Nothing in an email only looks interactive:
+
+| Element | Goes to |
 |---|---|
-| Masthead and hero | "Masthead and orbital hero" (100:43). Masthead glass with bottom-right cut, UIE wordmark glass, NASA Blue Marble Earth, Orbit veil gradient, city light trails, Chamfer / bottom-right. Text stays live over the art. |
-| Hero button | "Discuss a pilot" (100:48): `#ecf7ff` fill, integrated glass edge, 8 px radius |
-| Workflow rows | "Service row / Expanded" (39:46) and "Service row / Rest" (39:41) |
-| Photo cards | Homepage photo sections (100:112, 100:120, 100:128, 100:146, 100:154), with the chamfered corner |
-| Qlaas cards | "Qlaas products" (100:87): DMI card `#dceef8`, endpoint and orchestration glyphs, glass-edge buttons |
-| Refund trace | "Trace stage / Active" (39:52) and "Trace stage / Rest" (39:55), in the 3 × 2 mobile layout (41:103) |
-| Pilot brief steps | "Implementation / pilot" stage lines (40:121) |
-| Primary button | "Action / Pilot / dark" (39:37) |
-| Signature | "Email signature" (11:257): E / Primary Black, Rhodium separator, Inter on Institutional White |
-| Footer | "Footer" (100:162): wordmark and the Platform / Explore / Company directory |
+| Breadcrumbs (`UIE / Industries / Water & utilities`) | Each level's page |
+| Workflow rows (with →) | The segment's page |
+| Refund stages 01–06 | `/platform/walkthrough/#case`, where the stages are interactive |
+| Pilot brief steps | `/resources/pilot-brief/` |
+| Qlaas cards (icon, title, button) | `/platform/qlaas-dmi/` or `/platform/qlaas-services/` |
+| Photos | The segment's page |
+| "Discuss a pilot" | `/?pilot=<segment>`: opens the site's enquiry form with the segment selected, drafting to the right inbox |
+| Signature | Mail link to the sender, and uieglobal.com |
+| Footer | Platform / Explore / Company directory, enquiries@uieglobal.com, Corporate information |
 
-Colours: Horizon Blue `#0f75b7`, hero surface `#102b42`, hero content `#ecf7ff`, body surface `#f4f5f2`, content `#123349`, muted `#496578`, Primary Black `#0a0a0a`, Rhodium `#c7ccd1` and Institutional White `#f4f3f0`. Type is Inter, with an Arial fallback.
+Expand/collapse rows and tabs can't work across email clients, so rows show an arrow (→) instead of +/−. The `?pilot=` deep link was re-tested in a real browser on 25 Nov 2026: it opens the dialog with the right option selected, and Qlaas options draft to qlaas@. All 45 unique destinations return HTTP 200.
 
-`compose.cjs` renders the images at 2x from the source layers in `assets/src/`. The Figma photos are only 580 px wide, so the photography comes from the same images at 1920 px on uieglobal.com/assets.
+## How it behaves in each client
+
+| Client | Result |
+|---|---|
+| Apple Mail (macOS, iOS) | Full design, Instrument Sans, background hero, rounded and chamfered shapes |
+| Gmail (web and app) | Full design. The web font is not loaded (Helvetica/Arial fallback). The layout is fluid, so it fits phones even where Gmail strips `<style>`. |
+| Outlook for Windows | VML hero background. Left corners are square (Outlook ignores `border-radius`); chamfers still render because they are images. Only the button text is clickable. |
+| New Outlook / Windows Mail | No CSS hero image: the hero shows its solid `#102b42` with live text |
+| Yahoo, Samsung, Thunderbird | Full layout; partial CSS degrades as above |
+| Images blocked | All text, links and buttons stay readable and clickable. Buttons on light backgrounds keep their colour. The hero keeps its dark fill. Every image has alt text. |
+
+Checked with caniemail data (`doiuse-email`) and by rendering four modes: full, `<style>` stripped, Outlook-like and images blocked. Before day one, send yourself a test in the client your prospects use most.
 
 ### Image hosting
 

@@ -1,6 +1,6 @@
 Subject: Connection applications at {{company}}
 
-ENERGY & RENEWABLES
+UIE / Industries / Energy & renewables
 Grid connections and supplier handovers
 Track connection applications, supplier handovers and maintenance paperwork. Engineers can see which records are available and which still need review.
 Explore energy & renewables: https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For energy & renewables teams, these are the three workflows we would look at first:
 
-- Connection intake: The request, the work, who keeps authority and the evidence that closes the case.
-- Supplier handover
-- Invoice reconciliation
+- Connection intake: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy)
+- Supplier handover (https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy)
+- Invoice reconciliation (https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy)
 
 A dam spanning a river valley, connecting water and energy infrastructure: https://uieglobal.com/industries/energy/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-energy
 
@@ -27,6 +27,7 @@ See the energy & renewables workflows: https://uieglobal.com/industries/energy/?
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

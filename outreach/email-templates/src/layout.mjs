@@ -1,205 +1,215 @@
-// UIE outreach email system, built from the Figma file "UIE — Holographic Blue"
-// (AZmpT0rrLBpJt4YTA0DBpv). Every component below names the Figma node it is drawn from.
+// UIE outreach email system.
 //
-// Email-client rules: 600 px table layout, inline styles, bulletproof buttons (VML for Outlook),
-// background hero with a solid fallback colour so live text stays readable when images are off,
-// Inter with an Arial fallback, light colour scheme declared so clients do not invert the art.
+// Visual source: the Figma file "UIE — Holographic Blue" (AZmpT0rrLBpJt4YTA0DBpv), checked
+// against the computed styles of the live uieglobal.com on 25 Nov 2026 (where they differ, the
+// live site wins: Instrument Sans, ink #0c3041, porcelain #f4f5f2, 5 px "uie-polished" shapes).
+//
+// Shapes. The site cuts every control, card and image with a bottom-right chamfer whose joins are
+// rounded (computed clip-path, e.g. a 144×46 button: r 5, cut 12.42, joins 5). Email clients do
+// not support clip-path, so each shape is a live HTML cell plus a small image of its right edge or
+// corner, rendered from the same path by compose.cjs. With images blocked the cell keeps its fill
+// colour, so the control degrades to a plain rounded button that still works.
+//
+// Function. Nothing here is decorative-only: every row, stage, card, photo, crumb and button is a
+// real link (to the page, the exact anchor, or the enquiry form with the right option selected).
+// Expand/collapse and tabs cannot work across email clients, so rows show an arrow, not +/−.
+//
+// Client rules: 600 px tables, inline styles on every element that matters, role="presentation",
+// alt text on every image, no clip-path/flex/grid/position, bulletproof hero background (VML for
+// Outlook), light colour scheme declared.
 
 export const T = {
-  // Homepage "Masthead and orbital hero" (100:43)
-  heroSurface: '#102b42',   // --surface
-  heroContent: '#ecf7ff',   // --content
-  heroMuted: '#b9cfde',
-  // Homepage body surfaces (100:87 Qlaas products)
-  surface: '#f4f5f2',       // --surface
-  content: '#123349',       // --content
-  muted: '#496578',         // --muted
-  dmiCard: '#dceef8',       // Qlaas DMI card
-  glassEdge: '#8ea3bf',     // Integrated glass edge rgba(50,89,145,.47) on surface
-  // Components / Web interface (39:32)
-  ink: '#081a28',           // Action / Pilot / dark
-  porcelain: '#e9eef1',     // Trace stage / Rest, Service row (on surface)
-  separator: '#ccd9df',     // Service row separator
-  rowTitle: '#142f40',
-  rowStroke: '#54768c',
-  scopeLabel: '#2b678a',
-  scopeText: '#395467',
-  // Identity (11:156 Colour & typography)
-  horizonBlue: '#0f75b7',
-  black: '#0a0a0a',
-  rhodium: '#c7ccd1',
-  paper: '#f4f3f0',         // Institutional White
-  font: "Inter, 'Helvetica Neue', Arial, sans-serif",
+  // live site tokens (front.css, glass.css, interaction.css, aerospace.css)
+  ink: '#0c3041',           // --ink: text and primary buttons
+  muted: '#416371',         // --muted
+  link: '#155c80',          // .quiet-link
+  accent: '#0c70ae',        // --blue: labels
+  surface: '#f4f5f2',       // --uie-porcelain: page body
+  page: '#e9eeef',          // outside the 600 px column
+  line: '#cbdbe3',          // --wb-line
+  heroInk: '#102b42',       // --uie-ink: hero surface
+  heroText: '#f4f7fa',      // --hero-ink (dark)
+  heroBody: '#d4e4ed',      // --hero-body (dark)
+  heroBtn: '#e9f5fb', heroBtnText: '#13364b',   // hero .primary
+  ice: '#e8f1f5', iceText: '#15364a',           // .action
+  cardIce: '#e5f0f7',       // .u-platform
+  tab: '#e6eef2', tabOn: '#ffffff', tabOnText: '#174c80', // [role=tab], selected
+  // identity (Figma 11:156)
+  black: '#0a0a0a', rhodium: '#c7ccd1', paper: '#f4f3f0', horizonBlue: '#0f75b7',
+  font: "'Instrument Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
 };
 
 export const esc = (s) => String(s)
   .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
-const txt = (html, { size = 16, color = T.content, mb = 16, weight = 400, lh = 1.6, ls = 0 } = {}) =>
-  `<p style="margin:0 0 ${mb}px 0;font-family:${T.font};font-size:${size}px;line-height:${lh};color:${color};font-weight:${weight};${ls ? `letter-spacing:${ls}px;` : ''}">${html}</p>`;
+const P = (html, { size = 16, color = T.ink, mb = 16, weight = 400, lh = 1.6, ls = 0, extra = '' } = {}) =>
+  `<p style="margin:0 0 ${mb}px 0;font-family:${T.font};font-size:${size}px;line-height:${lh};color:${color};font-weight:${weight};${ls ? `letter-spacing:${ls}px;` : ''}${extra}">${html}</p>`;
 
-// Buttons ----------------------------------------------------------------------------------
-// variant 'light'   = hero "Discuss a pilot" (100:48): #ecf7ff fill, glass edge, surface text
-// variant 'dark'    = "Action / Pilot / dark" (39:37)
-// variant 'outline' = "Explore DMI" glass-edge link button (100:97)
-function button({ href, text, variant = 'dark' }) {
+const A = (href, html, { color = T.link, underline = true, weight = 'inherit', extra = '' } = {}) =>
+  `<a href="${href}" target="_blank" style="color:${color};font-weight:${weight};text-decoration:${underline ? 'underline' : 'none'};${extra}">${html}</a>`;
+
+// Polished button (site .primary / .action / hero .primary): live text cell + right-edge strip.
+// 46 px tall: 13 + 20 + 13. Both cells link to the same place.
+function button({ href, text, variant = 'ink', on = '' }, img) {
   const v = {
-    light: { bg: T.heroContent, fg: T.heroSurface, border: T.glassEdge },
-    dark: { bg: T.ink, fg: '#ffffff', border: T.ink },
-    outline: { bg: 'transparent', fg: T.content, border: T.glassEdge },
+    ink: { fill: T.ink, fg: '#ffffff', strip: 'btn-ink.png' },
+    ice: { fill: T.ice, fg: T.iceText, strip: 'btn-ice.png' },
+    hero: { fill: T.heroBtn, fg: T.heroBtnText, strip: 'btn-hero.png', transparent: true },
   }[variant];
-  const w = Math.max(160, Math.round(text.length * 8.6 + 40));
-  return `<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;"><tr><td style="border-radius:8px;background:${v.bg};border:1px solid ${v.border};">
-<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="${href}" style="height:50px;v-text-anchor:middle;width:${w}px;" arcsize="16%" strokecolor="${v.border}" fill="${variant === 'outline' ? 'f' : 't'}" fillcolor="${v.bg === 'transparent' ? '#ffffff' : v.bg}"><center style="color:${v.fg};font-family:Arial,sans-serif;font-size:15px;font-weight:bold;">${esc(text)}</center></v:roundrect><![endif]-->
-<!--[if !mso]><!--><a href="${href}" target="_blank" style="display:inline-block;padding:15px 18px;font-family:${T.font};font-size:15px;line-height:18px;font-weight:500;color:${v.fg};text-decoration:none;border-radius:8px;">${esc(text)}</a><!--<![endif]-->
-</td></tr></table>`;
+  if (on) v.strip = v.strip.replace('.png', `-on-${on}.png`);
+  const stripBg = v.transparent ? '' : ` bgcolor="${v.fill}"`;
+  return `<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;mso-table-lspace:0;mso-table-rspace:0;"><tr>
+<td bgcolor="${v.fill}" style="background:${v.fill};border-radius:5px 0 0 5px;padding:0;"><a href="${href}" target="_blank" style="display:block;padding:13px 4px 13px 20px;font-family:${T.font};font-size:15px;line-height:20px;font-weight:600;color:${v.fg};text-decoration:none;white-space:nowrap;mso-line-height-rule:exactly;">${esc(text).replace(/ /g, '&nbsp;')}&nbsp;&nbsp;</a></td>
+<td${stripBg} width="20" valign="top" style="width:20px;padding:0;font-size:0;line-height:0;"><a href="${href}" target="_blank" style="text-decoration:none;"><img src="${img(v.strip)}" width="20" height="46" alt="" style="display:block;width:20px;height:46px;border:0;"></a></td>
+</tr></table>`;
 }
 
-const section = (inner, { bg = T.surface, pad = '0 40px 28px 40px' } = {}) =>
-  `<tr><td class="px" style="background:${bg};padding:${pad};">${inner}</td></tr>`;
+// Polished card (site .u-platform / .u-cinema-brief): content cell + bottom-right corner tile.
+function card(inner, img, { fill = T.cardIce, tile = 'card-ice.png', pad = '24px 26px 0 26px' } = {}) {
+  return `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="${fill}" style="background:${fill};border-collapse:separate;border-radius:5px 5px 0 5px;">
+<tr><td colspan="2" style="padding:${pad};">${inner}</td></tr>
+<tr><td height="32" style="height:32px;font-size:0;line-height:0;border-radius:0 0 0 5px;">&nbsp;</td><td width="32" valign="bottom" style="width:32px;font-size:0;line-height:0;"><img src="${img(tile)}" width="32" height="32" alt="" style="display:block;width:32px;height:32px;border:0;"></td></tr>
+</table>`;
+}
 
-// Blocks -----------------------------------------------------------------------------------
+const row = (inner, { pad = '0 40px 24px 40px', bg = T.surface } = {}) =>
+  `<tr><td class="px" bgcolor="${bg}" style="background:${bg};padding:${pad};">${inner}</td></tr>`;
+
 export const blocks = {
-  // Masthead glass + orbital hero (100:43). Masthead strip and hero art rendered from Figma layers.
-  hero: (b, A) => `
-<tr><td style="background:${T.heroSurface};padding:0;line-height:0;font-size:0;"><a href="${b.home}" target="_blank"><img src="${A('hero-masthead.png')}" width="600" height="50" alt="UIE" style="display:block;width:100%;max-width:600px;height:auto;border:0;background:${T.surface};color:${T.content};font-family:${T.font};font-size:18px;font-weight:600;"></a></td></tr>
-<tr><td background="${A('hero-orbit.jpg')}" bgcolor="${T.heroSurface}" valign="top" class="hero" style="background:${T.heroSurface} url('${A('hero-orbit.jpg')}') center top / cover no-repeat;">
-<!--[if gte mso 9]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:325px;"><v:fill type="frame" src="${A('hero-orbit.jpg')}" color="${T.heroSurface}"/><v:textbox inset="0,0,0,0"><![endif]-->
-<div class="px" style="padding:44px 40px 52px 40px;">
-  ${txt(esc(b.eyebrow), { size: 14, color: '#e4eff6', mb: 14, weight: 500, ls: 0.35, lh: 1.3 })}
-  <h1 style="margin:0 0 16px 0;max-width:420px;font-family:${T.font};font-size:34px;line-height:1.05;letter-spacing:-1.3px;font-weight:500;color:${T.heroContent};">${esc(b.headline)}</h1>
-  ${txt(b.lead, { size: 16, color: T.heroContent, mb: 26, lh: 1.5 }).replace('<p style="', '<p style="max-width:400px;')}
-  ${button({ href: b.cta.href, text: b.cta.text, variant: 'light' })}
+  // Masthead + hero (Figma 100:43; site .front-hero). The masthead strip and the art are images;
+  // crumbs, headline, lead and button are live HTML over the art, on a solid fallback colour.
+  hero: (b, img) => `
+<tr><td bgcolor="${T.surface}" style="padding:0;font-size:0;line-height:0;"><a href="${b.home}" target="_blank"><img src="${img('hero-masthead.png')}" width="600" height="50" alt="UIE" style="display:block;width:100%;max-width:600px;height:auto;border:0;font-family:${T.font};font-size:20px;font-weight:600;color:${T.ink};"></a></td></tr>
+<tr><td background="${img('hero-orbit.jpg')}" bgcolor="${T.heroInk}" valign="top" style="background:${T.heroInk} url('${img('hero-orbit.jpg')}') right bottom / cover no-repeat;">
+<!--[if gte mso 9]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:325px;"><v:fill type="frame" src="${img('hero-orbit.jpg')}" color="${T.heroInk}"/><v:textbox inset="0,0,0,0"><![endif]-->
+<div class="px" style="padding:38px 40px 58px 40px;">
+  ${P(b.crumbs.map(([t, u]) => u ? A(u, esc(t), { color: T.heroText, underline: false }) : `<span style="color:${T.heroText};">${esc(t)}</span>`).join(`<span style="color:${T.heroBody};">&nbsp;&nbsp;/&nbsp;&nbsp;</span>`), { size: 14, color: T.heroText, mb: 18, lh: 1.4 })}
+  <h1 style="margin:0 0 16px 0;max-width:430px;font-family:${T.font};font-size:36px;line-height:1.04;letter-spacing:-1.7px;font-weight:500;color:${T.heroText};">${esc(b.headline)}</h1>
+  ${P(b.lead, { size: 16, color: T.heroText, mb: 26, lh: 1.55, extra: 'max-width:410px;' })}
+  ${button({ href: b.cta.href, text: b.cta.text, variant: 'hero' }, img)}
 </div>
 <!--[if gte mso 9]></v:textbox></v:rect><![endif]-->
 </td></tr>`,
 
-  letter: (b) => section(b.paras.map((h) => txt(h)).join(''), { pad: '36px 40px 12px 40px' }),
+  letter: (b) => row(b.paras.map((h) => P(h)).join(''), { pad: '34px 40px 10px 40px' }),
 
-  label: (b) => section(txt(esc(b.text), { size: 14, color: T.muted, mb: 0, weight: 500 }), { pad: '12px 40px 8px 40px' }),
+  close: (b) => row(b.paras.map((h) => P(h)).join(''), { pad: '4px 40px 8px 40px' }),
 
-  heading: (b) => section(`<h2 style="margin:0;font-family:${T.font};font-size:28px;line-height:1.1;letter-spacing:-1.1px;font-weight:500;color:${T.content};">${esc(b.text)}</h2>`, { pad: '0 40px 18px 40px' }),
-
-  // Service row / Expanded (39:46) followed by Service row / Rest (39:41).
-  serviceRows: (b) => section(`<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-${b.rows.map((r, i) => `<tr><td style="border-top:1px solid ${T.separator};padding:${r.scope ? '16px 0 18px' : '16px 0'};">
+  // Linked service rows (Figma Service row 39:41 / 39:46, site .wb-list). Each row is a link.
+  serviceRows: (b) => row(`<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+${b.rows.map((r) => `<tr><td style="border-top:1px solid ${T.line};padding:${r.scope ? '16px 0 18px' : '15px 0'};">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td style="font-family:${T.font};font-size:20px;line-height:1.2;letter-spacing:-0.4px;font-weight:500;color:${r.open ? T.horizonBlue : T.rowTitle};">${esc(r.title)}</td>
-    <td width="20" align="right" style="font-family:${T.font};font-size:20px;line-height:1;color:${T.rowStroke};">${r.scope ? '&#8722;' : '+'}</td>
+    <td style="font-family:${T.font};font-size:20px;line-height:1.25;letter-spacing:-0.5px;font-weight:500;">${A(r.href, esc(r.title), { color: r.open ? T.accent : T.ink, underline: false })}</td>
+    <td width="28" align="right" valign="top" style="font-family:${T.font};font-size:20px;line-height:1.25;">${A(r.href, '&#8594;', { color: r.open ? T.accent : T.muted, underline: false })}</td>
   </tr></table>
-  ${r.scope ? `<p style="margin:12px 0 4px 0;font-family:${T.font};font-size:13px;font-weight:600;color:${T.scopeLabel};">${esc(r.scopeLabel || 'Workflow scope')}</p><p style="margin:0;font-family:${T.font};font-size:16px;line-height:1.45;color:${T.scopeText};">${esc(r.scope)}</p>` : ''}
+  ${r.scope ? `${P(esc(r.scopeLabel || 'Workflow scope'), { size: 13, color: T.accent, mb: 4, weight: 600, lh: 1.3, extra: 'margin-top:10px;' })}${P(esc(r.scope), { size: 16, color: T.muted, mb: 0, lh: 1.5 })}` : ''}
 </td></tr>`).join('')}
-<tr><td style="border-top:1px solid ${T.separator};font-size:0;line-height:0;">&nbsp;</td></tr>
-</table>`, { pad: '0 40px 24px 40px' }),
+<tr><td style="border-top:1px solid ${T.line};font-size:0;line-height:0;height:1px;">&nbsp;</td></tr>
+</table>`),
 
-  // Photo section with Chamfer / bottom-right (100:112 Field operations pattern).
-  photo: (b, A) => section(`<a href="${b.href}" target="_blank"><img src="${A(b.img)}" width="520" height="280" alt="${esc(b.alt)}" style="display:block;width:100%;max-width:520px;height:auto;border:0;"></a>
-${b.credit ? txt(esc(b.credit), { size: 12, color: T.muted, mb: 0, lh: 1.4 }).replace('margin:0 0 0 0', 'margin:8px 0 0 0') : ''}`, { pad: '8px 40px 22px 40px' }),
+  // Photo with the site's asymmetric soft chamfer (baked into the image), linked to the page.
+  photo: (b, img) => row(`<a href="${b.href}" target="_blank" style="text-decoration:none;"><img src="${img(b.img)}" width="520" height="280" alt="${esc(b.alt)}" style="display:block;width:100%;max-width:520px;height:auto;border:0;font-family:${T.font};font-size:14px;color:${T.muted};"></a>
+${b.credit ? P(esc(b.credit), { size: 12, color: T.muted, mb: 0, lh: 1.4, extra: 'margin-top:8px;' }) : ''}`, { pad: '6px 40px 24px 40px' }),
 
-  // Qlaas products (100:87): DMI card on #dceef8 with glyph, label, title, text, glass-edge button.
-  qlaasCard: (b, A) => section(`<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${b.tone === 'dmi' ? T.dmiCard : '#ffffff'};border-radius:12px;${b.tone === 'dmi' ? '' : `border:1px solid ${T.separator};`}">
-<tr><td style="padding:22px 24px 24px 24px;">
-  <img src="${A(b.glyph)}" width="48" height="48" alt="" style="display:block;width:48px;height:48px;border:0;margin:0 0 10px -8px;">
-  ${txt(esc(b.label), { size: 14, color: T.muted, mb: 6, lh: 1.3 })}
-  <p style="margin:0 0 12px 0;font-family:${T.font};font-size:30px;line-height:1.05;letter-spacing:-1.2px;font-weight:500;color:${T.content};">${esc(b.title)}</p>
-  ${txt(esc(b.text), { size: 16, mb: 18, lh: 1.45 })}
-  ${button({ href: b.href, text: b.cta, variant: 'outline' })}
-</td></tr></table>`, { pad: '4px 40px 22px 40px' }),
+  // Qlaas platform cards (Figma 100:87; site .u-platform): polished card, glyph, linked title, button.
+  qlaasCard: (b, img) => row(card(`
+  <a href="${b.href}" target="_blank" style="text-decoration:none;"><img src="${img(b.glyph)}" width="48" height="48" alt="" style="display:block;width:48px;height:48px;border:0;margin:0 0 8px -8px;"></a>
+  ${P(esc(b.label), { size: 14, color: T.muted, mb: 6, lh: 1.3 })}
+  <p style="margin:0 0 10px 0;font-family:${T.font};font-size:30px;line-height:1.05;letter-spacing:-1.3px;font-weight:500;">${A(b.href, esc(b.title), { color: T.ink, underline: false })}</p>
+  ${P(esc(b.text), { size: 16, mb: 20, lh: 1.5 })}
+  ${button({ href: b.href, text: b.cta, variant: b.tone === 'dmi' ? 'ink' : 'ice', on: b.tone === 'dmi' ? 'ice' : 'white' }, img)}`, img, b.tone === 'dmi' ? {} : { fill: '#ffffff', tile: 'card-white.png' }), { pad: '4px 40px 18px 40px' }),
 
-  // Trace stage / Active (39:52) and Trace stage / Rest (39:55), as the mobile 3×2 selector (41:103…).
-  trace: (b) => section(`<table role="presentation" width="100%" cellpadding="0" cellspacing="4" border="0" style="border-collapse:separate;margin:0 -4px;">
-${[b.stages.slice(0, 3), b.stages.slice(3)].map((row) => `<tr>${row.map((s) => {
+  // Refund case stages (Figma Trace stage 39:52/39:55; site [role=tab]). Every stage links to the
+  // live walkthrough's refund case (#case), where the stages are interactive.
+  trace: (b) => row(`<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate;border-spacing:0;">
+${[b.stages.slice(0, 3), b.stages.slice(3)].map((r, ri) => `<tr>${r.map((s, ci) => {
     const on = s === b.active;
-    return `<td width="33%" style="background:${on ? '#ffffff' : T.porcelain};border-radius:3px;padding:15px 14px;font-family:${T.font};font-size:16px;line-height:1.2;font-weight:${on ? 600 : 400};color:${on ? T.horizonBlue : '#425f70'};${on ? `box-shadow:inset 0 -2px 0 ${T.horizonBlue};` : ''}">${esc(s)}</td>`;
+    return `<td width="33%" style="padding:${ri ? '4px' : '0'} ${ci < 2 ? '4px' : '0'} 0 0;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="${on ? T.tabOn : T.tab}" style="background:${on ? T.tabOn : T.tab};border-radius:5px;${on ? `border:1px solid ${T.line};` : ''}"><tr><td style="padding:14px 14px;font-family:${T.font};font-size:15px;line-height:1.2;">${A(b.href, `<span style="color:${on ? T.accent : T.muted};font-size:12px;">0${b.stages.indexOf(s) + 1}</span><br>${esc(s)}`, { color: on ? T.tabOnText : T.ink, underline: false, weight: on ? 650 : 400, extra: 'display:block;' })}</td></tr></table></td>`;
   }).join('')}</tr>`).join('')}
 </table>
-${b.evidence ? `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:12px;background:#ffffff;border-radius:8px;border:1px solid ${T.separator};"><tr><td style="padding:16px 18px;">
-  ${txt('EVIDENCE', { size: 12, color: T.muted, mb: 6, weight: 500, ls: 1 })}
-  ${txt(esc(b.evidence.title), { size: 18, mb: 4, weight: 500, lh: 1.3 })}
-  ${txt(esc(b.evidence.text), { size: 15, color: T.scopeText, mb: 0, lh: 1.45 })}
-</td></tr></table>` : ''}`, { pad: '0 40px 24px 40px' }),
+${b.evidence ? `<div style="height:12px;line-height:12px;font-size:0;">&nbsp;</div>${card(`${P('Evidence', { size: 13, color: T.accent, mb: 6, weight: 600 })}${P(esc(b.evidence.title), { size: 19, mb: 6, weight: 500, lh: 1.3, ls: -0.3 })}${P(esc(b.evidence.text), { size: 15, color: T.muted, mb: 0, lh: 1.5 })}`, b.imgFn, { fill: '#ffffff', tile: 'card-white.png', pad: '18px 22px 0 22px' })}` : ''}`),
 
-  // Implementation stage lines (40:121): rule, title, text.
-  stages: (b) => section(b.items.map(([title, text], i) => `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-top:1px solid ${T.content};padding:14px 0 18px 0;">
+  // Pilot brief steps (Figma 40:121 stage lines; site .pilot steps), each linked to the guide.
+  stages: (b) => row(b.items.map(([title, text], i) => `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-top:1px solid ${i ? T.line : T.ink};padding:14px 0 16px 0;">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="40" valign="top" style="font-family:${T.font};font-size:14px;line-height:1.6;font-weight:500;color:${T.horizonBlue};">0${i + 1}</td>
-    <td valign="top">${txt(esc(title), { size: 19, mb: text ? 4 : 0, weight: 500, lh: 1.3, ls: -0.3 })}${text ? txt(esc(text), { size: 15, color: T.muted, mb: 0, lh: 1.45 }) : ''}</td>
+    <td width="40" valign="top" style="font-family:${T.font};font-size:14px;line-height:1.7;font-weight:600;color:${T.accent};">0${i + 1}</td>
+    <td valign="top" style="font-family:${T.font};font-size:19px;line-height:1.35;letter-spacing:-0.3px;font-weight:500;">${A(b.href, esc(title), { color: T.ink, underline: false })}${text ? P(esc(text), { size: 15, color: T.muted, mb: 0, lh: 1.45, extra: 'margin-top:4px;letter-spacing:0;font-weight:400;' }) : ''}</td>
+    <td width="28" align="right" valign="top" style="font-family:${T.font};font-size:19px;line-height:1.35;">${A(b.href, '&#8594;', { color: T.muted, underline: false })}</td>
   </tr></table>
 </td></tr></table>`).join(''), { pad: '0 40px 18px 40px' }),
 
-  cta: (b) => section(`${button({ href: b.href, text: b.text, variant: b.variant || 'dark' })}
-${b.secondary ? `<p style="margin:14px 0 0 0;font-family:${T.font};font-size:15px;line-height:1.4;"><a href="${b.secondary.href}" target="_blank" style="color:${T.horizonBlue};text-decoration:underline;">${esc(b.secondary.text)}</a></p>` : ''}`, { pad: '6px 40px 28px 40px' }),
+  cta: (b, img) => row(`${button({ href: b.href, text: b.text, variant: b.variant || 'ink' }, img)}
+${b.secondary ? P(A(b.secondary.href, `${esc(b.secondary.text)}&nbsp;&#8594;`, { underline: false }), { size: 15, mb: 0, lh: 1.4, extra: 'margin-top:16px;' }) : ''}`, { pad: '6px 40px 28px 40px' }),
 
-  close: (b) => section(b.paras.map((h) => txt(h)).join(''), { pad: '4px 40px 8px 40px' }),
-
-  // Email signature (11:257): E / Primary Black, Rhodium separator, name / title / email on Institutional White.
-  signature: (b, A) => `<tr><td class="px" style="background:${T.surface};padding:8px 40px 32px 40px;">
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="background:${T.paper};border-radius:4px;"><tr>
-  <td valign="middle" style="padding:20px 18px 20px 16px;"><img src="${A('e-black.png')}" width="58" height="58" alt="UIE" style="display:block;width:58px;height:58px;border:0;"></td>
-  <td valign="middle" style="padding:18px 0;"><div style="width:1px;height:96px;background:${T.rhodium};font-size:0;line-height:0;">&nbsp;</div></td>
-  <td valign="middle" style="padding:18px 28px 18px 17px;">
-    <p style="margin:0 0 6px 0;font-family:${T.font};font-size:20px;line-height:1.2;color:${T.black};">{{sender_name}}</p>
-    <p style="margin:0 0 10px 0;font-family:${T.font};font-size:15px;line-height:1.3;color:${T.black};">{{sender_title}}, UIE Ltd</p>
-    <p style="margin:0;font-family:${T.font};font-size:15px;line-height:1.3;"><a href="mailto:{{sender_email}}" style="color:${T.black};text-decoration:none;">{{sender_email}}</a></p>
-  </td>
-</tr></table>
-</td></tr>`,
+  // Email signature (Figma 11:257) as a polished paper card. Email and site are links.
+  signature: (b, img) => row(`<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="width:auto;"><tr><td>${card(`<table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+  <td valign="middle" style="padding:0 16px 0 0;"><a href="${b.site}" target="_blank"><img src="${img('e-black.png')}" width="52" height="52" alt="UIE" style="display:block;width:52px;height:52px;border:0;"></a></td>
+  <td valign="middle" style="padding:0 0 0 16px;border-left:1px solid ${T.rhodium};">
+    ${P('{{sender_name}}', { size: 19, color: T.black, mb: 4, lh: 1.25 })}
+    ${P('{{sender_title}}, UIE Ltd', { size: 14, color: T.black, mb: 8, lh: 1.3 })}
+    ${P(`${A('mailto:{{sender_email}}', '{{sender_email}}', { color: T.black, underline: false })}<br>${A(b.site, 'uieglobal.com', { color: T.link, underline: false })}`, { size: 14, mb: 0, lh: 1.5 })}
+  </td></tr></table>`, img, { fill: T.paper, tile: 'card-paper.png', pad: '20px 22px 0 20px' })}</td></tr></table>`, { pad: '8px 40px 32px 40px' }),
 };
 
-// Footer (100:162): wordmark, link directory, UIE Ltd, plus legal identification and opt-out.
-function footer(links, A) {
-  const col = (h, items) => `<td class="stack" valign="top" width="33%" style="padding:0 12px 16px 0;">
-  <p style="margin:0 0 8px 0;font-family:${T.font};font-size:14px;font-weight:500;color:${T.content};">${h}</p>
-  ${items.map(([t, u]) => `<p style="margin:0 0 6px 0;font-family:${T.font};font-size:14px;line-height:1.4;"><a href="${u}" target="_blank" style="color:${T.muted};text-decoration:none;">${t}</a></p>`).join('')}
-</td>`;
-  return `<tr><td class="px" style="background:${T.surface};padding:0 40px;"><div style="border-top:1px solid ${T.separator};font-size:0;line-height:0;">&nbsp;</div></td></tr>
-<tr><td class="px" style="background:${T.surface};padding:24px 40px 8px 40px;">
-  <a href="${links.home}" target="_blank"><img src="${A('wordmark-glass.png')}" width="80" height="31" alt="UIE" style="display:block;width:80px;height:31px;border:0;margin:0 0 20px 0;"></a>
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    ${col('Platform', [['Qlaas DMI', links.dmi], ['Qlaas Services', links.services]])}
-    ${col('Explore', [['Industries', links.industries], ['Solutions', links.solutions], ['Resources', links.resources]])}
-    ${col('Company', [['About UIE', links.company], ['Discuss a pilot', links.pilot]])}
-  </tr></table>
+// Footer (Figma 100:162; site .footer): wordmark, link directory, legal identification, opt-out.
+function footer(L, img) {
+  const col = (h, items) => `<div class="stack" style="display:inline-block;width:100%;max-width:172px;vertical-align:top;padding:0 0 14px 0;">
+  ${P(h, { size: 14, mb: 8, weight: 600, lh: 1.3 })}
+  ${items.map(([t, u]) => P(A(u, t, { color: T.muted, underline: false }), { size: 14, mb: 6, lh: 1.4 })).join('')}
+</div>`;
+  const ghost = (cols) => `<!--[if mso]><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="173" valign="top"><![endif]-->${cols.join('<!--[if mso]></td><td width="173" valign="top"><![endif]-->')}<!--[if mso]></td></tr></table><![endif]-->`;
+  return `<tr><td class="px" bgcolor="${T.surface}" style="background:${T.surface};padding:0 40px;"><div style="border-top:1px solid ${T.line};font-size:0;line-height:0;height:1px;">&nbsp;</div></td></tr>
+<tr><td class="px" bgcolor="${T.surface}" style="background:${T.surface};padding:24px 40px 6px 40px;">
+  <a href="${L.home}" target="_blank"><img src="${img('wordmark-glass.png')}" width="80" height="31" alt="UIE" style="display:block;width:80px;height:31px;border:0;margin:0 0 20px 0;font-family:${T.font};font-size:18px;font-weight:600;color:${T.ink};"></a>
+  <div style="font-size:0;line-height:0;">${ghost([
+    col('Platform', [['Qlaas DMI', L.dmi], ['Qlaas Services', L.services], ['Walkthrough', L.walkthrough]]),
+    col('Explore', [['Industries', L.industries], ['Solutions', L.solutions], ['Resources', L.resources]]),
+    col('Company', [['About UIE', L.company], ['Discuss a pilot', L.pilot], ['enquiries@uieglobal.com', 'mailto:enquiries@uieglobal.com']]),
+  ])}</div>
 </td></tr>
-<tr><td class="px" style="background:${T.surface};padding:4px 40px 36px 40px;">
-  <p style="margin:0 0 8px 0;font-family:${T.font};font-size:12px;line-height:1.6;color:${T.muted};">UIE Ltd &middot; Registered in England and Wales, company number 17334450 &middot; 66 Paul Street, London, EC2A 4NA, United Kingdom &middot; <a href="${links.legal}" target="_blank" style="color:${T.muted};">Corporate information</a></p>
-  <p style="margin:0;font-family:${T.font};font-size:12px;line-height:1.6;color:${T.muted};">I wrote to you because of your role at {{company}}. If this isn&#8217;t relevant, reply &#8220;no thanks&#8221; and I won&#8217;t write again.</p>
+<tr><td class="px" bgcolor="${T.surface}" style="background:${T.surface};padding:4px 40px 36px 40px;">
+  ${P(`UIE Ltd &middot; Registered in England and Wales, company number 17334450 &middot; 66 Paul Street, London, EC2A 4NA, United Kingdom &middot; ${A(L.legal, 'Corporate information', { color: T.muted })}`, { size: 12, color: T.muted, mb: 8, lh: 1.6 })}
+  ${P('I wrote to you because of your role at {{company}}. If this isn&#8217;t relevant, reply &#8220;no thanks&#8221; and I won&#8217;t write again.', { size: 12, color: T.muted, mb: 0, lh: 1.6 })}
 </td></tr>`;
 }
 
 export function layout({ subject, preheader, body, links, asset }) {
-  const html = body.map((b) => blocks[b.type](b, asset)).join('\n');
+  const html = body.map((b) => blocks[b.type]({ ...b, imgFn: asset, site: links.home }, asset)).join('\n');
   return `<!doctype html>
 <html lang="en-GB" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="x-apple-disable-message-reformatting">
+<meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
 <meta name="color-scheme" content="light">
 <meta name="supported-color-schemes" content="light">
 <title>${esc(subject)}</title>
-<!--[if mso]><noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript><style>td,p,a,h1,h2{font-family:Arial,sans-serif!important;}</style><![endif]-->
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<!--[if mso]><noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript><style>td,p,a,h1{font-family:Arial,sans-serif!important;}</style><![endif]-->
+<!--[if !mso]><!--><link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet"><!--<![endif]-->
 <style>
   :root{color-scheme:light;supported-color-schemes:light;}
-  body{margin:0;padding:0;width:100%!important;-webkit-text-size-adjust:100%;background:${T.paper};}
-  a{color:${T.horizonBlue};}
+  body{margin:0;padding:0;width:100%!important;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+  img{-ms-interpolation-mode:bicubic;}
+  a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!important;}
   @media (max-width:620px){
     .wrap{width:100%!important;}
     .px{padding-left:22px!important;padding-right:22px!important;}
-    .hero h1{font-size:30px!important;}
-    .stack{display:block!important;width:100%!important;}
+    h1{font-size:31px!important;}
+    .stack{display:block!important;max-width:100%!important;}
   }
 </style>
 </head>
-<body style="margin:0;padding:0;background:${T.paper};">
+<body style="margin:0;padding:0;background:${T.page};">
 <div style="display:none;max-height:0;overflow:hidden;opacity:0;mso-hide:all;">${esc(preheader)}&#8199;&#65279;&#847;&#8199;&#65279;&#847;&#8199;&#65279;&#847;&#8199;&#65279;&#847;&#8199;&#65279;&#847;&#8199;&#65279;&#847;&#8199;&#65279;&#847;</div>
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${T.paper};">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="${T.page}" style="background:${T.page};">
   <tr><td align="center" style="padding:24px 10px;">
-    <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" class="wrap" style="width:600px;max-width:600px;background:${T.surface};">
+    <!--[if mso]><table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" align="center"><tr><td><![endif]-->
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" class="wrap" bgcolor="${T.surface}" style="width:100%;max-width:600px;margin:0 auto;background:${T.surface};">
 ${html}
 ${footer(links, asset)}
     </table>
+    <!--[if mso]></td></tr></table><![endif]-->
   </td></tr>
 </table>
 </body>
@@ -207,24 +217,22 @@ ${footer(links, asset)}
 `;
 }
 
-// Plain-text alternative.
+// Plain-text alternative (every link written out in full).
 export function plain({ body }) {
   const strip = (h) => String(h).replace(/<br\s*\/?>/g, '\n').replace(/<a [^>]*href="([^"]+)"[^>]*>([^<]+)<\/a>/g, '$2 ($1)')
-    .replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&#8217;/g, '’').replace(/&#8220;|&#8221;/g, '"');
+    .replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&#8217;/g, '’').replace(/&#8220;|&#8221;/g, '"').replace(/&#8594;/g, '→').replace(/&nbsp;/g, ' ');
   const out = [];
   for (const b of body) {
     switch (b.type) {
-      case 'hero': out.push(`${b.eyebrow.toUpperCase()}\n${b.headline}\n${strip(b.lead)}\n${b.cta.text}: ${b.cta.href}`); break;
+      case 'hero': out.push(`${b.crumbs.map(([t]) => t).join(' / ')}\n${b.headline}\n${strip(b.lead)}\n${b.cta.text}: ${b.cta.href}`); break;
       case 'letter': case 'close': out.push(...b.paras.map(strip)); break;
-      case 'label': out.push(b.text.toUpperCase()); break;
-      case 'heading': out.push(b.text); break;
-      case 'serviceRows': out.push(b.rows.map((r) => `- ${r.title}${r.scope ? `: ${r.scope}` : ''}`).join('\n')); break;
+      case 'serviceRows': out.push(b.rows.map((r) => `- ${r.title}${r.scope ? `: ${r.scope}` : ''} (${r.href})`).join('\n')); break;
       case 'photo': out.push(`${b.alt}: ${b.href}`); break;
-      case 'qlaasCard': out.push(`${b.title} — ${b.text}\n${b.cta}: ${b.href}`); break;
-      case 'trace': out.push(b.stages.join(' → ') + (b.evidence ? `\nEvidence: ${b.evidence.title}. ${b.evidence.text}` : '')); break;
-      case 'stages': out.push(b.items.map(([t, x], i) => `0${i + 1} ${t}${x ? ` — ${x}` : ''}`).join('\n')); break;
+      case 'qlaasCard': out.push(`${b.title}: ${b.text}\n${b.cta}: ${b.href}`); break;
+      case 'trace': out.push(b.stages.join(' → ') + `\n${b.href}` + (b.evidence ? `\nEvidence: ${b.evidence.title}. ${b.evidence.text}` : '')); break;
+      case 'stages': out.push(b.items.map(([t, x], i) => `0${i + 1} ${t}${x ? `: ${x}` : ''}`).join('\n') + `\n${b.href}`); break;
       case 'cta': out.push(`${b.text}: ${b.href}` + (b.secondary ? `\n${b.secondary.text}: ${b.secondary.href}` : '')); break;
-      case 'signature': out.push('{{sender_name}}\n{{sender_title}}, UIE Ltd\n{{sender_email}}'); break;
+      case 'signature': out.push('{{sender_name}}\n{{sender_title}}, UIE Ltd\n{{sender_email}}\nhttps://uieglobal.com'); break;
     }
   }
   out.push('--\nUIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom');

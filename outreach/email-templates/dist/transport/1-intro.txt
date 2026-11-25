@@ -1,6 +1,6 @@
 Subject: Delivery exceptions at {{company}}
 
-TRANSPORT & LOGISTICS
+UIE / Industries / Transport & logistics
 Shipment exceptions and proof of delivery
 Connect shipment instructions, carrier updates and delivery evidence. Help operations teams resolve missing information before it becomes another phone call, delay or disputed invoice.
 Explore transport & logistics: https://uieglobal.com/industries/transport-logistics/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For transport & logistics teams, these are the three workflows we would look at first:
 
-- Shipment readiness: The request, the work, who keeps authority and the evidence that closes the case.
-- Delivery exception handling
-- Proof of delivery reconciliation
+- Shipment readiness: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/transport-logistics/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport)
+- Delivery exception handling (https://uieglobal.com/industries/transport-logistics/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport)
+- Proof of delivery reconciliation (https://uieglobal.com/industries/transport-logistics/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport)
 
 Communications antenna at the Goldstone ground station: https://uieglobal.com/industries/transport-logistics/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-transport
 
@@ -27,6 +27,7 @@ See the transport & logistics workflows: https://uieglobal.com/industries/transp
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

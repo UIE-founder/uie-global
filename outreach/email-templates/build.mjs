@@ -64,7 +64,7 @@ for (const s of SEGMENTS) {
     const L = (p, x = {}) => url(p, { campaign: CAMPAIGN, content: `${t.id.split('-')[0]}-${s.id}-footer`, ...x });
     const links = {
       home: L('/'), dmi: L('/platform/qlaas-dmi/'), services: L('/platform/qlaas-services/'),
-      industries: L('/industries/'), solutions: L('/solutions/'), resources: L('/resources/'),
+      walkthrough: L('/platform/walkthrough/#case'), industries: L('/industries/'), solutions: L('/solutions/'), resources: L('/resources/'),
       company: L('/company/'), pilot: L('/', { pilot: s.pilot }), legal: url('/legal/'),
     };
     e.body.filter((b) => b.type === 'hero').forEach((b) => { b.home = links.home; });

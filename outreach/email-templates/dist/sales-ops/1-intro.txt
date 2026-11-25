@@ -1,6 +1,6 @@
 Subject: Inbound enquiries at {{company}}
 
-SALES OPERATIONS
+UIE / Solutions / Sales operations
 Move a qualified enquiry into the pipeline.
 Qualify an inbound opportunity, prepare a proposal and record the agreed follow-up in the CRM.
 See the workflow: https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with sales operations teams, and where the line sits between what is delegated and what stays with you:
 
-- Sales operations: Qualify an inbound opportunity, prepare a proposal and record the agreed follow-up in the CRM.
-- Stays with you: A commercial owner approves negotiated terms and outreach outside the agreed permission.
-- When it goes off-script: A prospective customer asks for a non-standard discount.
+- Sales operations: Qualify an inbound opportunity, prepare a proposal and record the agreed follow-up in the CRM. (https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops)
+- Stays with you: A commercial owner approves negotiated terms and outreach outside the agreed permission. (https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops)
+- When it goes off-script: A prospective customer asks for a non-standard discount. (https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops)
 
 An engineer working beside data centre infrastructure: https://uieglobal.com/solutions/sales-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-sales-ops
 
@@ -27,6 +27,7 @@ See the sales operations workflow: https://uieglobal.com/solutions/sales-operati
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

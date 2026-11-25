@@ -1,6 +1,6 @@
 Subject: Guest requests at {{company}}
 
-COMMERCIAL & HOSPITALITY
+UIE / Industries / Commercial & hospitality
 Guest requests, returns and supplier invoices
 Connect customer requests to the teams and systems that fulfil them. Keep reservations, after-sales and finance aligned, so customers receive a confirmed outcome rather than another handover.
 Explore commercial & hospitality: https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For commercial & hospitality teams, these are the three workflows we would look at first:
 
-- Guest request coordination: The request, the work, who keeps authority and the evidence that closes the case.
-- Returns and after-sales
-- Supplier invoice handling
+- Guest request coordination: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality)
+- Returns and after-sales (https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality)
+- Supplier invoice handling (https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality)
 
 An engineer working beside data centre infrastructure: https://uieglobal.com/industries/commercial-hospitality/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-hospitality
 
@@ -27,6 +27,7 @@ See the commercial & hospitality workflows: https://uieglobal.com/industries/com
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

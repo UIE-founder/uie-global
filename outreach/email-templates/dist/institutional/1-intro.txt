@@ -1,6 +1,6 @@
 Subject: Cross-department requests at {{company}}
 
-INSTITUTIONAL ADMINISTRATION
+UIE / Solutions / Institutional administration
 Coordinate a verified administrative request.
 Arrange appointments, verify credentials and exchange records within the institution’s access rules.
 See the workflow: https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with institutional administration teams, and where the line sits between what is delegated and what stays with you:
 
-- Institutional administration: Arrange appointments, verify credentials and exchange records within the institution’s access rules.
-- Stays with you: Restricted access and consequential decisions require an authorised institutional owner.
-- When it goes off-script: Two offices must confirm a change to a shared appointment.
+- Institutional administration: Arrange appointments, verify credentials and exchange records within the institution’s access rules. (https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional)
+- Stays with you: Restricted access and consequential decisions require an authorised institutional owner. (https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional)
+- When it goes off-script: Two offices must confirm a change to a shared appointment. (https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional)
 
 Communications antenna at the Goldstone ground station: https://uieglobal.com/solutions/institutional-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-institutional
 
@@ -27,6 +27,7 @@ See the institutional administration workflow: https://uieglobal.com/solutions/i
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

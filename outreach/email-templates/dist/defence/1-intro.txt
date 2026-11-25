@@ -1,6 +1,6 @@
 Subject: Routine supply administration at {{company}}
 
-DEFENCE & MISSION SUPPORT
+UIE / Industries / Defence & mission support
 Supply requests and maintenance records
 Coordinate routine supply, maintenance records and contract administration with explicit authority and a clear evidence trail. Keep administrative throughput moving without extending operational permissions.
 Explore defence & mission support: https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For defence & mission support teams, these are the three workflows we would look at first:
 
-- Routine supply administration: The request, the work, who keeps authority and the evidence that closes the case.
-- Maintenance record completeness
-- Contract evidence coordination
+- Routine supply administration: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence)
+- Maintenance record completeness (https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence)
+- Contract evidence coordination (https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence)
 
 USS Ross manoeuvring at sea, viewed from above: https://uieglobal.com/industries/defence/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence
 
@@ -27,6 +27,7 @@ See the defence & mission support workflows: https://uieglobal.com/industries/de
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

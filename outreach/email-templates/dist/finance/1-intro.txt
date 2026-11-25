@@ -1,6 +1,6 @@
 Subject: Invoice matching at {{company}}
 
-FINANCE ADMINISTRATION
+UIE / Solutions / Finance administration
 Prepare a reconciled payment record.
 Match invoices to purchase orders and receipts, then prepare the payment instruction.
 See the workflow: https://uieglobal.com/solutions/finance-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with finance administration teams, and where the line sits between what is delegated and what stays with you:
 
-- Finance administration: Match invoices to purchase orders and receipts, then prepare the payment instruction.
-- Stays with you: Payment release, suspected fraud and unmatched records remain with the finance owner.
-- When it goes off-script: A supplier invoice exceeds the purchase order.
+- Finance administration: Match invoices to purchase orders and receipts, then prepare the payment instruction. (https://uieglobal.com/solutions/finance-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance)
+- Stays with you: Payment release, suspected fraud and unmatched records remain with the finance owner. (https://uieglobal.com/solutions/finance-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance)
+- When it goes off-script: A supplier invoice exceeds the purchase order. (https://uieglobal.com/solutions/finance-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance)
 
 Server racks and monitoring equipment in a data centre: https://uieglobal.com/solutions/finance-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-finance
 
@@ -27,6 +27,7 @@ See the finance administration workflow: https://uieglobal.com/solutions/finance
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

@@ -1,6 +1,6 @@
 Subject: Application handling at {{company}}
 
-GOVERNMENT SERVICES
+UIE / Solutions / Government services
 Route an application with its evidence.
 Receive applications, organise supporting records and communicate progress through the authorised channel.
 See the workflow: https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with government services teams, and where the line sits between what is delegated and what stays with you:
 
-- Government services: Receive applications, organise supporting records and communicate progress through the authorised channel.
-- Stays with you: Statutory decisions, appeals and sensitive disclosures stay with authorised officials.
-- When it goes off-script: An application is missing a supporting record.
+- Government services: Receive applications, organise supporting records and communicate progress through the authorised channel. (https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov)
+- Stays with you: Statutory decisions, appeals and sensitive disclosures stay with authorised officials. (https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov)
+- When it goes off-script: An application is missing a supporting record. (https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov)
 
 Communications antenna at the Goldstone ground station: https://uieglobal.com/solutions/government-services/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-gov
 
@@ -27,6 +27,7 @@ See the government services workflow: https://uieglobal.com/solutions/government
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

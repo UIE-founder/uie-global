@@ -1,6 +1,6 @@
 Subject: Routine supply records at {{company}}
 
-DEFENCE LOGISTICS ADMINISTRATION
+UIE / Solutions / Defence logistics administration
 Reconcile a routine supply record.
 Coordinate administrative inventory records, maintenance paperwork and routine supply requests.
 See the workflow: https://uieglobal.com/solutions/defence-logistics-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with defence logistics administration teams, and where the line sits between what is delegated and what stays with you:
 
-- Defence logistics administration: Coordinate administrative inventory records, maintenance paperwork and routine supply requests.
-- Stays with you: The institution retains operational authority and controls access to restricted information.
-- When it goes off-script: An incoming routine supply record has no matching receipt.
+- Defence logistics administration: Coordinate administrative inventory records, maintenance paperwork and routine supply requests. (https://uieglobal.com/solutions/defence-logistics-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics)
+- Stays with you: The institution retains operational authority and controls access to restricted information. (https://uieglobal.com/solutions/defence-logistics-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics)
+- When it goes off-script: An incoming routine supply record has no matching receipt. (https://uieglobal.com/solutions/defence-logistics-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics)
 
 USS Ross manoeuvring at sea, viewed from above: https://uieglobal.com/solutions/defence-logistics-administration/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-defence-logistics
 
@@ -27,6 +27,7 @@ See the defence logistics administration workflow: https://uieglobal.com/solutio
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

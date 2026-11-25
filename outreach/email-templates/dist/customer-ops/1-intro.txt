@@ -1,6 +1,6 @@
 Subject: Returns and refunds at {{company}}
 
-CUSTOMER OPERATIONS
+UIE / Solutions / Customer operations
 Resolve the request. Close the record.
 Handle order enquiries, returns and eligible refunds from the first message through to reconciliation.
 See the workflow: https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with customer operations teams, and where the line sits between what is delegated and what stays with you:
 
-- Customer operations: Handle order enquiries, returns and eligible refunds from the first message through to reconciliation.
-- Stays with you: Disputed eligibility and amounts above the delegated limit go to a named reviewer.
-- When it goes off-script: A return arrives after the stated window.
+- Customer operations: Handle order enquiries, returns and eligible refunds from the first message through to reconciliation. (https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops)
+- Stays with you: Disputed eligibility and amounts above the delegated limit go to a named reviewer. (https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops)
+- When it goes off-script: A return arrives after the stated window. (https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops)
 
 Server racks and monitoring equipment in a data centre: https://uieglobal.com/solutions/customer-operations/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-customer-ops
 
@@ -27,6 +27,7 @@ See the customer operations workflow: https://uieglobal.com/solutions/customer-o
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

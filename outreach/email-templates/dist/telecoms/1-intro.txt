@@ -1,6 +1,6 @@
 Subject: Fault coordination at {{company}}
 
-DATA & TELECOMMUNICATIONS
+UIE / Industries / Data & telecommunications
 Network faults and service changes
 Connect customer requests to network providers, service desks and field operations. Replace repeated status checks with a clear record of ownership, next action and outcome.
 Explore data & telecommunications: https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For data & telecommunications teams, these are the three workflows we would look at first:
 
-- Fault coordination: The request, the work, who keeps authority and the evidence that closes the case.
-- Remote-hands requests
-- Service change administration
+- Fault coordination: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms)
+- Remote-hands requests (https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms)
+- Service change administration (https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms)
 
 Server racks and monitoring equipment in a data centre: https://uieglobal.com/industries/data-telecommunications/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-telecoms
 
@@ -27,6 +27,7 @@ See the data & telecommunications workflows: https://uieglobal.com/industries/da
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

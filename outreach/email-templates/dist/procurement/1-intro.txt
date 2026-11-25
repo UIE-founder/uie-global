@@ -1,6 +1,6 @@
 Subject: Quotation requests at {{company}}
 
-PROCUREMENT
+UIE / Solutions / Procurement
 Take a requirement through to delivery.
 Prepare quotation requests, compare supplier responses and track the approved order.
 See the workflow: https://uieglobal.com/solutions/procurement/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. Here is one workflow we would pilot with procurement teams, and where the line sits between what is delegated and what stays with you:
 
-- Procurement: Prepare quotation requests, compare supplier responses and track the approved order.
-- Stays with you: Supplier selection, spending commitments and exceptions require the buyer’s authority.
-- When it goes off-script: Two offers meet a requirement at different prices.
+- Procurement: Prepare quotation requests, compare supplier responses and track the approved order. (https://uieglobal.com/solutions/procurement/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement)
+- Stays with you: Supplier selection, spending commitments and exceptions require the buyer’s authority. (https://uieglobal.com/solutions/procurement/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement)
+- When it goes off-script: Two offers meet a requirement at different prices. (https://uieglobal.com/solutions/procurement/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement)
 
 Server racks and monitoring equipment in a data centre: https://uieglobal.com/solutions/procurement/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-procurement
 
@@ -27,6 +27,7 @@ See the procurement workflow: https://uieglobal.com/solutions/procurement/?utm_s
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

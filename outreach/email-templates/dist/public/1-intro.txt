@@ -1,6 +1,6 @@
 Subject: Application completeness at {{company}}
 
-PUBLIC INSTITUTIONS
+UIE / Industries / Public institutions
 Applications, procurement and case handovers
 Link applications, supporting records and inter-office handovers. Officials review outstanding evidence and make decisions.
 Explore public institutions: https://uieglobal.com/industries/public-institutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For public institutions teams, these are the three workflows we would look at first:
 
-- Application completeness: The request, the work, who keeps authority and the evidence that closes the case.
-- Procurement clarification
-- Inter-office handovers
+- Application completeness: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/public-institutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public)
+- Procurement clarification (https://uieglobal.com/industries/public-institutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public)
+- Inter-office handovers (https://uieglobal.com/industries/public-institutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public)
 
 Communications antenna at the Goldstone ground station: https://uieglobal.com/industries/public-institutions/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-public
 
@@ -27,6 +27,7 @@ See the public institutions workflows: https://uieglobal.com/industries/public-i
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom

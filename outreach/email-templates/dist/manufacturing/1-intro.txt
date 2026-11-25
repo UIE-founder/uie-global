@@ -1,6 +1,6 @@
 Subject: Quotation preparation at {{company}}
 
-MANUFACTURING & INDUSTRIAL
+UIE / Industries / Manufacturing & industrial
 Quotations, materials and quality records
 Connect enquiries, materials and quality records across the order lifecycle. Give planners, buyers and engineers the information they need without another round of spreadsheet reconciliation.
 Explore manufacturing & industrial: https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
@@ -11,9 +11,9 @@ Hi {{first_name}},
 
 At UIE we implement Qlaas, which connects AI agents to the systems your teams already use. You decide what each agent can do, which decisions need approval and how to check the result. For manufacturing & industrial teams, these are the three workflows we would look at first:
 
-- Quotation preparation: The request, the work, who keeps authority and the evidence that closes the case.
-- Materials expediting
-- Quality documentation
+- Quotation preparation: The request, the work, who keeps authority and the evidence that closes the case. (https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing)
+- Materials expediting (https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing)
+- Quality documentation (https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing)
 
 An engineer working beside data centre infrastructure: https://uieglobal.com/industries/manufacturing/?utm_source=outreach&utm_medium=email&utm_campaign=pilot-2026-11&utm_content=t1-manufacturing
 
@@ -27,6 +27,7 @@ See the manufacturing & industrial workflows: https://uieglobal.com/industries/m
 {{sender_name}}
 {{sender_title}}, UIE Ltd
 {{sender_email}}
+https://uieglobal.com
 
 --
 UIE Ltd · Registered in England and Wales, company number 17334450 · 66 Paul Street, London, EC2A 4NA, United Kingdom
