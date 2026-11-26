@@ -3,7 +3,7 @@
 // Source file: Figma "UIE — Holographic Blue" (AZmpT0rrLBpJt4YTA0DBpv).
 //   Hero:      "Masthead and orbital hero" (100:43) — Earth / production projection (123:225),
 //              Orbit veil (100:45), light trails (140:426…), Masthead glass / bottom-right cut (110:1655),
-//              UIE wordmark glass (104:971), Chamfer / bottom-right (110:1603).
+//              UIE Horizon Arc master logo (21:24, uieglobal.com/assets/uie.svg), Chamfer / bottom-right (110:1603).
 //   Photos:    homepage photo sections (100:112, 100:120, 100:128, 100:146, 100:154), each with its
 //              Chamfer / bottom-right. High-resolution copies come from uieglobal.com/assets.
 //   Marks:     E / Primary Black (11:258, email signature), UIE / Glyph / endpoint + orchestration.

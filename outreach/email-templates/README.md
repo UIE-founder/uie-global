@@ -98,7 +98,7 @@ Email clients strip CSS `clip-path`, so `compose.cjs` renders each edge or corne
 
 **Type and colour (live site).** Instrument Sans with a Helvetica/Arial fallback. Ink `#0c3041`, muted `#416371`, link `#155c80`, accent `#0c70ae`, porcelain `#f4f5f2`, hero `#102b42` / `#f4f7fa`, hero button `#e9f5fb` / `#13364b`, action `#e8f1f5` / `#15364a`.
 
-**From Figma.** Horizon Arc wordmark (glass), orbital Earth hero (Blue Marble, orbit veil, city light trails), Service rows (39:41 / 39:46), Trace stages (39:52 / 39:55), Qlaas product cards and glyphs (100:87), implementation stage lines (40:121), the email signature (11:257) and the footer directory (100:162).
+**From Figma.** Horizon Arc master logo (21:24), orbital Earth hero (Blue Marble, orbit veil, city light trails), Service rows (39:41 / 39:46), Trace stages (39:52 / 39:55), Qlaas product cards and glyphs (100:87), implementation stage lines (40:121), the email signature (11:257) and the footer directory (100:162).
 
 ## Everything is a working link
 

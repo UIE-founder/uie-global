@@ -160,7 +160,7 @@ function footer(L, img) {
   const ghost = (cols) => `<!--[if mso]><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="173" valign="top"><![endif]-->${cols.join('<!--[if mso]></td><td width="173" valign="top"><![endif]-->')}<!--[if mso]></td></tr></table><![endif]-->`;
   return `<tr><td class="px" bgcolor="${T.surface}" style="background:${T.surface};padding:0 40px;"><div style="border-top:1px solid ${T.line};font-size:0;line-height:0;height:1px;">&nbsp;</div></td></tr>
 <tr><td class="px" bgcolor="${T.surface}" style="background:${T.surface};padding:24px 40px 6px 40px;">
-  <a href="${L.home}" target="_blank"><img src="${img('wordmark-glass.png')}" width="80" height="31" alt="UIE" style="display:block;width:80px;height:31px;border:0;margin:0 0 20px 0;font-family:${T.font};font-size:18px;font-weight:600;color:${T.ink};"></a>
+  <a href="${L.home}" target="_blank"><img src="${img('uie-logo.png')}" width="80" height="31" alt="UIE" style="display:block;width:80px;height:31px;border:0;margin:0 0 20px 0;font-family:${T.font};font-size:18px;font-weight:600;color:${T.ink};"></a>
   <div style="font-size:0;line-height:0;">${ghost([
     col('Platform', [['Qlaas DMI', L.dmi], ['Qlaas Services', L.services], ['Walkthrough', L.walkthrough]]),
     col('Explore', [['Industries', L.industries], ['Solutions', L.solutions], ['Resources', L.resources]]),

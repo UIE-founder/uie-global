@@ -1,8 +1,8 @@
 {
   "campaign": "pilot-2026-11",
   "start": "2026-11-25",
-  "asset_base": "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets",
-  "generated": "2026-11-25T14:43:42.892Z",
+  "asset_base": "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets",
+  "generated": "2026-11-26T18:44:56.975Z",
   "emails": [
     {
       "segment": "water",
@@ -37,14 +37,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-water.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-water.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -81,14 +81,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -125,13 +125,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -165,12 +165,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -206,14 +206,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-water.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-water.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -250,14 +250,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -294,13 +294,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -334,12 +334,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -375,14 +375,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-goldstone.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -419,14 +419,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -463,13 +463,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -503,12 +503,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -544,14 +544,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-people.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -588,14 +588,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -632,13 +632,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -672,12 +672,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -713,14 +713,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-data.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -757,14 +757,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -801,13 +801,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -841,12 +841,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -882,14 +882,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-people.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -926,14 +926,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -970,13 +970,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1010,12 +1010,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1051,14 +1051,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-goldstone.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1095,14 +1095,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1139,13 +1139,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1179,12 +1179,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1220,14 +1220,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-defence.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-defence.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1264,14 +1264,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1308,13 +1308,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1348,12 +1348,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1389,14 +1389,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-data.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1433,14 +1433,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1477,13 +1477,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1517,12 +1517,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1558,14 +1558,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-data.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1602,14 +1602,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1646,13 +1646,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1686,12 +1686,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1727,14 +1727,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-data.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-data.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1771,14 +1771,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1815,13 +1815,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1855,12 +1855,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1896,14 +1896,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-goldstone.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1940,14 +1940,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -1984,13 +1984,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2024,12 +2024,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2065,14 +2065,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-defence.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-defence.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2109,14 +2109,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2153,13 +2153,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2193,12 +2193,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2234,14 +2234,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-people.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2278,14 +2278,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2322,13 +2322,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2362,12 +2362,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2403,14 +2403,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-people.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-people.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2447,14 +2447,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2491,13 +2491,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2531,12 +2531,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2572,14 +2572,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/photo-goldstone.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/photo-goldstone.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2616,14 +2616,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2660,13 +2660,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2700,12 +2700,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2743,19 +2743,19 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/glyph-endpoint.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink-on-ice.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-ice.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/glyph-orchestration.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ice-on-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/glyph-endpoint.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink-on-ice.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-ice.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/glyph-orchestration.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ice-on-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2792,14 +2792,14 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-white.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-white.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2836,13 +2836,13 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-ink.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-ink.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     },
     {
@@ -2876,12 +2876,12 @@
         "https://uieglobal.com/legal/"
       ],
       "images": [
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-masthead.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/hero-orbit.jpg",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/btn-hero.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/e-black.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/card-paper.png",
-        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@975b4697beb432f2381c22c395c6044b5e31cf3c/outreach/email-templates/assets/wordmark-glass.png"
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-masthead.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/hero-orbit.jpg",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/btn-hero.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/e-black.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/card-paper.png",
+        "https://cdn.jsdelivr.net/gh/UIE-founder/uie-global@50d87e1bf46e16caea3cc25d8489ebc2ce37782c/outreach/email-templates/assets/uie-logo.png"
       ]
     }
   ]

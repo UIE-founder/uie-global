@@ -79,7 +79,7 @@ const touchRows = TOUCHES.map((t) => {
 const segRows = SEGMENTS.map((s) => `<tr><td>${esc(s.name)}</td><td>${s.kind}</td><td><code>uieglobal.com${esc(s.path)}</code></td><td><code>/?pilot=${esc(s.pilot)}</code></td><td><code>dist/${s.id}/</code></td></tr>`).join('');
 writeFileSync(join(out, 'cover.html'), page('UIE outreach · cover', `<div class="board" style="display:block;width:1600px;">
 <div class="cover">
-  <img src="${data('wordmark-glass.png')}" width="120" height="46" alt="UIE" style="display:block;margin:0 0 56px 0;">
+  <img src="${data('uie-logo.png')}" width="120" height="46" alt="UIE" style="display:block;margin:0 0 56px 0;">
   <p class="eyebrow">UIE · Outreach email templates · campaign ${esc(CAMPAIGN)}</p>
   <h1>Four touches, seventeen segments,<br>one route to a pilot.</h1>
   <p class="lead">Every email lands the prospect on the uieglobal.com page for their industry or function, and every “Discuss a pilot” opens the site’s enquiry form with their area already selected. Built from the UIE — Holographic Blue Figma file and the live site’s geometry.</p>
