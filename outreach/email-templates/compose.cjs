@@ -60,8 +60,8 @@ function heroHTML({ W = 1440, H = 900, mast = 120 } = {}) {
   </div>
   <div style="position:absolute;inset:0;background:linear-gradient(90deg, rgba(5,19,33,.9) 0%, rgba(5,19,33,.84) 55%, rgba(5,19,33,.58) 78%, rgba(5,19,33,.22) 100%)"></div>
   <div style="position:absolute;left:0;right:0;bottom:0;height:${H * 0.35}px;background:linear-gradient(180deg, rgba(16,43,66,0) 0%, rgba(16,43,66,.55) 100%)"></div>
-  <svg width="${W}" height="${mast}" viewBox="0 0 ${W} ${mast}" style="position:absolute;left:0;top:0"><path d="${polished(W, mast, { r: 0, rBL: 12, cx: cut, j: 12 })}" fill="${SURFACE}" fill-opacity=".93"/></svg>
-  <img src="${uri('wordmark-glass.svg')}" style="position:absolute;left:72px;top:${(mast - 58) / 2}px;width:150px;height:58px">
+  <svg width="${W}" height="${mast}" viewBox="0 0 ${W} ${mast}" style="position:absolute;left:0;top:0"><path d="${polished(W, mast, { r: 0, cx: cut, j: 12 })}" fill="${SURFACE}" fill-opacity=".93"/></svg>
+  <img src="${uri('uie-horizon-arc-final.svg')}" style="position:absolute;left:72px;top:${(mast - 58) / 2}px;width:151px;height:58px">
   <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="position:absolute;left:0;top:0"><path fill-rule="evenodd" d="M0 0H${W}V${H}H0Z ${polished(W, H, { r: 0, cx: 110, j: 16 })}" fill="${SURFACE}"/></svg>
 </div></body></html>`;
 }
@@ -137,7 +137,7 @@ im.crop((0, 100, 1200, 750)).save(${JSON.stringify(path.join(OUT, 'hero-orbit.jp
   }
   await shot2(single('e-black.svg', 116, 116), 'e-black.png', 116, 116, { transparent: true });
   await shot2(single('e-horizon-arc.svg', 110, 116), 'e-horizon-arc.png', 110, 116, { transparent: true });
-  await shot2(single('wordmark-glass.svg', 160, 62), 'wordmark-glass.png', 160, 62, { transparent: true });
+  await shot2(single('uie-horizon-arc-final.svg', 160, 62), 'uie-logo.png', 160, 62, { transparent: true });
   await shot2(layered(['glyph-endpoint-structure.svg', 'glyph-endpoint-accent.svg'], 96, 64), 'glyph-endpoint.png', 96, 96, { transparent: true });
   await shot2(layered(['glyph-orch-structure.svg', 'glyph-orch-accent0.svg', 'glyph-orch-accent1.svg'], 96, 64), 'glyph-orchestration.png', 96, 96, { transparent: true });
   // Buttons: 46 px tall (site .primary/.action), 5 px radius, 12.42 px cut, 5 px joins. Rendered at 2x.
